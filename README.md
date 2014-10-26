@@ -15,10 +15,10 @@
 
 **Week 1:**
 
-1.
-2.
-3.
-4.
+1. Cody Knauer, Grant Hummer, Luke Zdanowicz, Thomas Lee
+2. Danielle Kienzle, Jordy Williams, Mak Arnautovic, Nodira Berdieva
+3. David Chmura, Eleni Chappen, Ryan Jones, Christopher Hirsh
+4. Jamie Pilgrim, Joshua Hadik, Steven An, Troy Leach
 
 <!--
 
