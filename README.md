@@ -20,14 +20,14 @@
 3. David Chmura, Eleni Chappen, Ryan Jones, Christopher Hirsh
 4. Jamie Pilgrim, Joshua Hadik, Steven An, Troy Leach
 
-<!--
-
 **Week 2:**
 
-1.
-2.
-3.
-4.
+1. Eleni Chappen, Jamie Pilgrim, Steven An, Thomas Lee
+2. David Chmura, Grant Hummer, Mak Arnautovic, Nodira Berdieva
+3. Cody Knauer, Danielle Kienzle, Ryan Jones, Troy Leach
+4. Jordy Williams, Joshua Hadik, Luke Zdanowicz, Christopher Hirsh
+
+<!--
 
 **Week 3:**
 
