@@ -27,16 +27,13 @@
 3. Cody Knauer, Danielle Kienzle, Ryan Jones, Troy Leach
 4. Jordy Williams, Joshua Hadik, Luke Zdanowicz, Christopher Hirsh
 
-<!--
-
 **Week 3:**
 
-1.
-2.
-3.
-4.
+1. Eleni Chappen, Nodira Berdieva, Cody Knauer, Christopher Hirsh
+2. Steven An, David Chmura, Danielle Kienzle, Joshua Hadik
+3. Jamie Pilgrim, Ryan Jones, Jordy Williams, Luke Zdanowicz
+4. Thomas Lee, Grant Hummer, Mak Arnautovic, Troy Leach
 
--->
 
 ### Additional Resources
 - [Student Handbook](../../../student-handbook)
