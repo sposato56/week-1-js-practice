@@ -4,7 +4,7 @@
 ##### Core Challenges
 - [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge) 2.5hs
 - [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge) 30min
-- [World's Dumbest Browser](../../../../world-s-simplest-browser-challenge) 1.5hs
+- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge) 1.5hs
 
 ##### Stretch Challenges
 - [Scraping HN 2](../../../../scraping-hn-2-saving-to-csv-challenge) 1h

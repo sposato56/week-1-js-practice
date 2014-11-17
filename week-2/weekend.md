@@ -12,6 +12,7 @@ Either with a pair or on your own, complete the following challenges.
 - [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge)
 
 ##### Stretch Challenges
+- [Mastermind Game Challenge](../../../../mastermind-challenge)
 - [Bowling Game Code Kata](http://content.codersdojo.org/code-kata-catalogue/bowling-game/) (external website)
 - [OO Inheritance](../../../../p5-oo-inheritance-challenge)
 - [OO Terminology](../../../../p6-oo-terminology-challenge)

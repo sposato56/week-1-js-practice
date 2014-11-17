@@ -15,28 +15,25 @@
 
 **Week 1:**
 
-1.
-2.
-3.
-4.
-
-<!--
+1. Cody Knauer, Grant Hummer, Luke Zdanowicz, Thomas Lee
+2. Danielle Kienzle, Jordy Williams, Mak Arnautovic, Nodira Berdieva
+3. David Chmura, Eleni Chappen, Ryan Jones, Christopher Hirsh
+4. Jamie Pilgrim, Joshua Hadik, Steven An, Troy Leach
 
 **Week 2:**
 
-1.
-2.
-3.
-4.
+1. Eleni Chappen, Jamie Pilgrim, Steven An, Thomas Lee
+2. David Chmura, Grant Hummer, Mak Arnautovic, Nodira Berdieva
+3. Cody Knauer, Danielle Kienzle, Ryan Jones, Troy Leach
+4. Jordy Williams, Joshua Hadik, Luke Zdanowicz, Christopher Hirsh
 
 **Week 3:**
 
-1.
-2.
-3.
-4.
+1. Eleni Chappen, Nodira Berdieva, Cody Knauer, Christopher Hirsh
+2. Steven An, David Chmura, Danielle Kienzle, Joshua Hadik
+3. Jamie Pilgrim, Ryan Jones, Jordy Williams, Luke Zdanowicz
+4. Thomas Lee, Grant Hummer, Mak Arnautovic, Troy Leach
 
--->
 
 ### Additional Resources
 - [Student Handbook](../../../student-handbook)
