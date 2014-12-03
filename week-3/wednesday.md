@@ -8,9 +8,9 @@
 - [Active Record Intro: Retreiving Records](../../../../active-record-intro-retreiving-records-challenge) 30min
 - [Active Record Intro: Inserting Records](../../../../active-record-intro-inserting-records-challenge) 45min
 - [Active Record Intro: Objects](../../../../active-record-intro-objects-challenge) 30min
-- [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge) 45min
 - [Active Record Intro: belongs_to Association](../../../../active-record-intro-belongs-to-association-challenge) 1h
 - [Active Record Intro: has_many Association](../../../../active-record-intro-has-many-association-challenge) 1h
+- [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge) 45min
 
 ##### Stretch Challenges
 - [Active Record Jr. Part 2](../../../../activerecord-jr-2-sql-be-gone-challenge)
