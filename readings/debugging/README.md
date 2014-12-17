@@ -104,21 +104,21 @@ puts see_into_code(10)
 
 An alternative is to use a debugger.  Debuggers are used somewhat similarly to `puts` statements, but they are more robust, allowing you to explore the state of your program as it's running, rather than declaring before runtime which variables you want to see.  There are a few gems to choose from. Examples include ... 
 
-- [debugger](https://rubygems.org/gems/debugger)
 - [byebug](https://rubygems.org/gems/byebug)
 - [pry](https://rubygems.org/gems/pry)
+- [debugger](https://rubygems.org/gems/debugger) (ruby 1.9.3)
 
 Each of these are gems that would need to be required in your program (e.g., `require 'debugger'`).  Then, similarly to placing `puts` statements where we've isolated the error, we call for the debugger.
 
 ```ruby
-require 'debugger'
+require 'byebug'
 
 def see_into_code(number)
   x = 0
   result = []
 
   until x == number
-	debugger
+	byebug
 	  
     result << x
   end
@@ -132,25 +132,22 @@ puts see_into_code(10)
 When the code is run and the call to the debugger is made, an interactive irb-like session will begin, showing the line number where execution was halted and the surrounding lines of code:
 
 ```
-see_into_code.rb:10
-result << x
-
 [5, 14] in show_me_errors.rb
-   5    result = []
-   6  
-   7    until x == number
-   8    debugger
-   9  
-=> 10      result << x
-   11    end
-   12  
-   13    result
-   14  end
-(rdb:1) x
+    5:   result = []
+    6: 
+    7:   until x == number
+    8:   byebug
+    9: 
+=> 10:     result << x
+   11:   end
+   12: 
+   13:   result
+   14: end
+(byebug) x
 0
-(rdb:1) number
+(byebug) number
 10
-(rdb:1) result
+(byebug) result
 []
 ```
 
@@ -159,30 +156,28 @@ We can then interact with the program.  In the example above, I've retrieved the
 When I'm done exploring, I can run the `continue` command to resume execution, which will halt again when the next call to the debugger is reached—in this case, the next iteration of the `until` loop.
 
 ```
-(rdb:1) continue
-show_me_errors.rb:10
-result << x
+(byebug) continue
 
-[5, 14] in show_me_errors.rb
-   5    result = []
-   6  
-   7    until x == number
-   8    debugger
-   9  
-=> 10      result << x
-   11    end
-   12  
-   13    result
-   14  end
-(rdb:1) x
+[5, 14] in test.rb
+    5:   result = []
+    6: 
+    7:   until x == number
+    8:   byebug
+    9: 
+=> 10:     result << x
+   11:   end
+   12: 
+   13:   result
+   14: end
+(byebug) x
 0
-(rdb:1) number
+(byebug) number
 10
-(rdb:1) result
-[0]  
+(byebug) result
+[0]
 ```
 
-In this next iteration of the `until` loop, I've again retrieved the values of the variables `x`, `number`, and `result`.  I can see that `number` is still `10` and the array `result` now contains the previous value of `x`, `0`, as expected.  However, `x` has not changed; it was `0` in the last iteration and `0` in this iteration.  That's not what I expected; I expected it to be `1`.  `x` should increment until it equals `number`, so I now know that I forgot to increment `x`.  I can enter the `exit` command to stop running the program and then fix the code:
+In this next iteration of the `until` loop, I've again retrieved the values of the variables `x`, `number`, and `result`.  I can see that `number` is still `10` and the array `result` now contains the previous value of `x`, which is `0`, as expected.  However, `x` has not changed; it was `0` in the last iteration and `0` in this iteration.  That's not what I expected; I expected it to be `1`.  `x` should increment until it equals `number`, so I now know that I forgot to increment `x`.  I can enter the `exit` command to stop running the program and then fix the code:
 
 ```ruby
 def see_into_code(number)
