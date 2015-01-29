@@ -82,7 +82,7 @@ end
 
 my_numbers = [1, 2, 3, 4]
 
-doubled_events(my_numbers)
+doubled_event(my_numbers)
 # => [4, 8]
 ```
 
