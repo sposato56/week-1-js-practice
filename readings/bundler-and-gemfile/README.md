@@ -20,7 +20,7 @@ source 'https://rubygems.org'
 gem "rspec", "2.14"
 ```
 
-*Figure 1.* Contents of `Gemfile` in the pig lating challenge.
+*Figure 1.* Contents of `Gemfile` in the pig latin challenge.
 
 You might have noticed a file in some of the challenge repos:  `Gemfile`.  Figure 1 shows the contents of the `Gemfile` from the [pig-latin-challenge repo](../../../../../pig-latin-challenge).  In the `Gemfile` are listed all of the gem dependencies for an application.  In this instance, there is only one dependency:  the `rspec` gem.  This `Gemfile` doesn't just list the gem dependency, however.  It also specifies which specific version of the gem to use:  2.14.  
 
