@@ -4,7 +4,7 @@ Written by [Torey Hickman](https://github.com/toreyhickman).
  
 ## Introduction
 
-We've had practicing modeling real-world systems in both Ruby and relational databases.  In other words you might say, in Ruby-land and SQL-land.  In SQL-land, we model the state of our system—where the data will exist so that we can persist the state of our models.  We want to make use of the data in our databases in Ruby-land.  We don't want to just pull the data from the database; we want to create Ruby objects from the data 
+We've had practice modeling real-world systems in both Ruby and relational databases.  In other words you might say, in Ruby-land and SQL-land.  In SQL-land, we model the state of our system—where the data will exist so that we can persist the state of our models.  We want to make use of the data in our databases in Ruby-land.  We don't want to just pull the data from the database; we want to create Ruby objects from the data 
 
 In the same way that we've parsed text in a .csv or .txt file into `Person`, `Task`, and `Flashcard` objects in Ruby, the data from our database needs to be translated into Ruby objects.  For example, the records in a `dogs` table should be used to create instances of the `Dog` class in Ruby.  
 
