@@ -1,42 +1,38 @@
 # Phase 1 Guide
 
-### Daily Guides
-| Week 1 | Week 2 | Week 3 |
-| ---                              | ---                              | ---                              |
-| [Monday](week-1/monday.md)       | [Monday](week-2/monday.md)       | [Monday](week-3/monday.md)       |
-| [Tuesday](week-1/tuesday.md)     | [Tuesday](week-2/tuesday.md)     | [Tuesday](week-3/tuesday.md)     |
-| [Wednesday](week-1/wednesday.md) | [Wednesday](week-2/wednesday.md) | [Wednesday](week-3/wednesday.md) |
-| [Thursday](week-1/thursday.md)   | [Thursday](week-2/thursday.md)   | [Thursday](week-3/thursday.md)   |
-| [Friday](week-1/friday.md)       | [Friday](week-2/friday.md)       | [Friday](week-3/friday.md)       |
-| [Weekend](week-1/weekend.md)     | [Weekend](week-2/weekend.md)     | [Weekend](week-3/weekend.md)     |
+**[Groups](../../wiki/groups.md)**
 
+### Course Outline
 
-### Weekly Groups
-
-**Week 1:**
-
-1.  
-2.  
-3.  
-4.  
-
-<!--
-
-**Week 2:**
-
-1.  
-2.  
-3.  
-4.  
-
-**Week 3:**
-
-1.  
-2.  
-3.  
-4.  
-
--->
+<table>
+  <tr>
+    <td><b>Week 1</b></td>
+    <td><a href="week-1/monday.md">Monday</a></td>
+    <td><a href="week-1/tuesday.md">Tuesday</td>
+    <td><a href="week-1/wednesday.md">Wednesday</td>
+    <td><a href="week-1/thursday.md">Thursday</td>
+    <td><a href="week-1/friday.md">Friday</td>
+    <td><a href="week-1/weekend.md">Weekend</td>
+  </tr>
+  <tr>
+    <td><b>Week 2</b></td>
+    <td><a href="week-2/monday.md">Monday</td>
+    <td><a href="week-2/tuesday.md">Tuesday</td>
+    <td><a href="week-2/wednesday.md">Wednesday</td>
+    <td><a href="week-2/thursday.md">Thursday</td>
+    <td><a href="week-2/friday.md">Friday</td>
+    <td><a href="week-2/weekend.md">Weekend</td>
+  </tr>
+  <tr>
+    <td><b>Week 3</b></td>
+    <td><a href="week-3/monday.md">Monday</td>
+    <td><a href="week-3/tuesday.md">Tuesday</td>
+    <td><a href="week-3/wednesday.md">Wednesday</td>
+    <td><a href="week-3/thursday.md">Thursday</td>
+    <td><a href="week-3/friday.md">Friday</td>
+    <td><a href="week-3/weekend.md">Weekend</td>
+  </tr>
+</table>
 
 ### Additional Resources
 - [Student Handbook](../../../student-handbook)
