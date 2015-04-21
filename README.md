@@ -34,6 +34,12 @@
   </tr>
 </table>
 
+## Weekly Cadence
+
+- Yoga: Monday and Thursday (mandatory)
+- Engineering Empathy: Tuesday, 10am
+- Assessment: Wednesday from 8:15 - 11:45 a.m. (Week 3)
+
 ### Additional Resources
 - [Student Handbook](../../../student-handbook)
 - [How to Submit a Challenge](resources/how-to-submit.md)
