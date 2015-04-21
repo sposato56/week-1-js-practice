@@ -6,7 +6,7 @@
 
 ## Challenges
 
-#### Core Challenges
+##### Core Challenges
 
 - [Deaf Grandma](../../../../deaf-grandma-challenge)
 - [Roman Numerals](../../../../roman-numerals-challenge)
@@ -15,7 +15,7 @@
 - [Design Drill: Code Style](../../../../design-drill-code-style-challenge)
 - [Design Drill: Method Chaining](../../../../design-drill-method-chaining-challenge)
 
-#### Stretch Challenges
+##### Stretch Challenges
 - [99 Bottles](../../../../99-bottles-challenge)
 - [Battleship](../../../../battleship-challenge)
 
