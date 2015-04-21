@@ -2,7 +2,7 @@
 
 **[Groups](../../wiki/groups.md)**
 
-### Course Outline
+## Course Outline
 
 <table>
   <tr>
