@@ -1,6 +1,6 @@
 # Week 1:  Tuesday
 
-### Lecture
+## Lecture
 - [RSpec Intro](../resources/lectures.md#rspec-basics)
 
 ## Challenges
