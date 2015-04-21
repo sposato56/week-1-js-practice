@@ -25,7 +25,7 @@
 ### Prep for Tomorrow
 - [Writing Readable Code](../readings/writing-readable-code/README.md)
 
-### Additonal Resources
+### Additional Resources
 - [Code smells](https://gist.github.com/alycit/8cecbd9d69e5d0f0be22)
 - [Readable code](https://gist.github.com/openspectrum/1fc609849ee747e333a1)
 - [Regular Expressions](https://gist.github.com/openspectrum/395b89258d2234762b63)
