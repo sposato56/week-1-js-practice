@@ -13,7 +13,7 @@ Either with a pair or on your own, complete the following challenges.
 
 ##### Stretch Challenges
 - [Mastermind Game Challenge](../../../../mastermind-challenge)
-- [Bowling Game Code Kata](http://content.codersdojo.org/code-kata-catalogue/bowling-game/) (external website)
+- [Bowling Game Code Kata](http://www.codingdojo.org/cgi-bin/index.pl?KataBowling) (external website)
 - [OO Inheritance](../../../../p5-oo-inheritance-challenge)
 - [OO Terminology](../../../../p6-oo-terminology-challenge)
 
