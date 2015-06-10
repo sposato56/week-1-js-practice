@@ -1,38 +1,12 @@
 # Phase 1 Guide
 
-**[Groups](../../wiki/groups.md)**
+**[Groups](../../wiki/Groups)**
 
 ## Course Outline
 
-<table>
-  <tr>
-    <td><b>Week 1</b></td>
-    <td><a href="week-1/monday.md">Monday</a></td>
-    <td><a href="week-1/tuesday.md">Tuesday</td>
-    <td><a href="week-1/wednesday.md">Wednesday</td>
-    <td><a href="week-1/thursday.md">Thursday</td>
-    <td><a href="week-1/friday.md">Friday</td>
-    <td><a href="week-1/weekend.md">Weekend</td>
-  </tr>
-  <tr>
-    <td><b>Week 2</b></td>
-    <td><a href="week-2/monday.md">Monday</td>
-    <td><a href="week-2/tuesday.md">Tuesday</td>
-    <td><a href="week-2/wednesday.md">Wednesday</td>
-    <td><a href="week-2/thursday.md">Thursday</td>
-    <td><a href="week-2/friday.md">Friday</td>
-    <td><a href="week-2/weekend.md">Weekend</td>
-  </tr>
-  <tr>
-    <td><b>Week 3</b></td>
-    <td><a href="week-3/monday.md">Monday</td>
-    <td><a href="week-3/tuesday.md">Tuesday</td>
-    <td><a href="week-3/wednesday.md">Wednesday</td>
-    <td><a href="week-3/thursday.md">Thursday</td>
-    <td><a href="week-3/friday.md">Friday</td>
-    <td><a href="week-3/weekend.md">Weekend</td>
-  </tr>
-</table>
+- [Week 1 - Algorithms and Coder's Mindset](week-1/)
+- [Week 2 - Object Oriented Programming](week-2/)
+- [Week 3 - Databases](week-3/)
 
 ## Weekly Cadence
 
