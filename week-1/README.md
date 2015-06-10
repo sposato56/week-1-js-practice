@@ -24,7 +24,7 @@
 
 **Lecture**
 
-- [Intro to GithHub-based Challenge System](../resources/lectures.md#github-based-challenge-system)
+[Intro to GithHub-based Challenge System](../resources/lectures.md#github-based-challenge-system)
 
 **Challenges**
 
@@ -67,7 +67,7 @@
 
 **Lecture**
 
-- [RSpec Intro](../resources/lectures.md#rspec-basics)
+[RSpec Intro](../resources/lectures.md#rspec-basics)
 
 **Challenges**
 
@@ -113,7 +113,7 @@
 
 **Lecture**
 
-- [Iteration and Recursion](../resources/lectures.md#iteration-and-recursion)
+[Iteration and Recursion](../resources/lectures.md#iteration-and-recursion)
 
 **Challenges**
 
@@ -159,7 +159,7 @@
 
 **Lecture**
 
-- [Object Heap & Nested Data Structures](../resources/lectures.md#object-heap-and-nested-data-structures)
+[Object Heap & Nested Data Structures](../resources/lectures.md#object-heap-and-nested-data-structures)
 
 **Challenges**
 
@@ -199,7 +199,7 @@
 
 **Lecture**
 
-- [Sudoku Workshop & Group Dynamics](../resources/lectures.md#sudoku-workshop)
+[Sudoku Workshop & Group Dynamics](../resources/lectures.md#sudoku-workshop)
 
 **Challenges**
 
