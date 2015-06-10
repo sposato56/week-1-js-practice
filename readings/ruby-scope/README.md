@@ -1,5 +1,4 @@
 # Ruby Scope
-Written by [Nate Delage](https://github.com/ndelage).
 
 ## Introduction
 Scope describes where a variable is accessible. For example, given the following
