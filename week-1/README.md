@@ -24,7 +24,7 @@
 
 **Lecture**
 
-[Intro to GithHub-based Challenge System](../resources/lectures.md#github-based-challenge-system)
+[Intro to GitHub-based Challenge System](../resources/lectures.md#github-based-challenge-system)
 
 **Challenges**
 
@@ -37,7 +37,7 @@
 
 **Prep for Tomorrow**
 
-- [RSpec Basies](../readings/rspec/README.md)
+- [RSpec Basics](../readings/rspec/README.md)
 - [Regular Expressions](../readings/regular-expressions/README.md)
 
 ### Stretch
@@ -128,7 +128,7 @@
 
 **Prep for Tomorrow**
 
-- [Debuggging](../readings/debugging/README.md)
+- [Debugging](../readings/debugging/README.md)
 
 ### Stretch
 
