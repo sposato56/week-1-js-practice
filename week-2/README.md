@@ -28,11 +28,11 @@
 
 **Challenges**
 
-- [Ruby Drill: Accessor Methods](../../../../ruby-drill-accessor-methods-challenge) 30min
-- [Design Drill: Public vs. Private Interfaces](../../../../design-drill-public-vs-private-interfaces-challenge) 45min
-- [Ruby Drill: The self Keyword](../../../../ruby-drill-the-self-keyword-challenge) 1h
-- [Ruby Drill: Exploring Scope](../../../../ruby-drill-exploring-scope-challenge) 1h
-- [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge) 2hs
+- [Ruby Drill: Accessor Methods](../../../../ruby-drill-accessor-methods-challenge)
+- [Design Drill: Public vs. Private Interfaces](../../../../design-drill-public-vs-private-interfaces-challenge)
+- [Ruby Drill: The self Keyword](../../../../ruby-drill-the-self-keyword-challenge)
+- [Ruby Drill: Exploring Scope](../../../../ruby-drill-exploring-scope-challenge)
+- [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
 
 **Prep for Tomorrow**
 
@@ -42,7 +42,7 @@
 
 **Challenges**
 
-- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge) 45min
+- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
 
 ### Additional Resources
 - [Tupperware example solution](https://gist.github.com/al2o3cr/2dc01e1176815d60082c)
@@ -63,11 +63,10 @@
 
 **Challenges**
 
-- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge) 45min
-- [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge) 1h
-- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge) 2hs
-- [Cookies and Ovens](../../../../cookies-and-ovens-challenge) 1.5hs
-- [Hospital Interface](../../../../hospital-interface-challenge) 2hs
+- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
+- [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
+- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 
 **Prep for Tomorrow**
 
@@ -77,7 +76,8 @@
 
 **Challenges**
 
-- [Parsing Data 2](../../../../parsing-data-2-csv-in-anything-out-challenge) 45min
+- [Hospital Interface](../../../../hospital-interface-challenge)
+- [Parsing Data 2](../../../../parsing-data-2-csv-in-anything-out-challenge)
 
 ### Additional Resources
 - [Inheritance vs. composition](http://ruby.learncodethehardway.org/book/ex44.html)
@@ -97,9 +97,9 @@ No lecture.
 
 **Challenges**
 
-- [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge) 2.5hs
-- [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge) 30min
-- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge) 1.5hs
+- [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge)
+- [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
+- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
 
 **Prep for Tomorrow**
 
@@ -109,8 +109,8 @@ No prep for tomorrow.
 
 **Challenges**
 
-- [Scraping HN 2](../../../../scraping-hn-2-saving-to-csv-challenge) 1h
-- [The Rational Numbers](../../../../the-rational-numbers-challenge) 1h
+- [Scraping HN 2](../../../../scraping-hn-2-saving-to-csv-challenge)
+- [The Rational Numbers](../../../../the-rational-numbers-challenge)
 
 ### Additional Resources
 - [Your miyagi moment](http://techcrunch.com/2013/08/10/your-miyagi-moment/)
@@ -136,7 +136,7 @@ No lecture due to mock assessments.
 
 **Challenges**
 
-- [Ruby Todos 1](../../../../ruby-todos-1-0-core-features-challenge) 2.5hs
+- [Ruby Todos 1](../../../../ruby-todos-1-0-core-features-challenge)
 
 **Prep for Tomorrow**
 

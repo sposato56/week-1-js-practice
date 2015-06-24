@@ -28,11 +28,11 @@
 
 **Challenges**
 
-- [Database Drill: SQL Tutor](https://socrates.devbootcamp.com/sql_tests)  Complete this challenge on Socrates 1.5hs
-- [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge) - if not finished over the weekend. 45min
-- [Poll Database Design](../../../../poll-database-design-challenge) 45min
-- [Poll DB 1: Queries](../../../../poll-db-1-queries-challenge) 1h
-- [Poll DB 2: Modifying Data](../../../../poll-db-2-modifying-data-challenge) 1h
+- [Database Drill: SQL Tutor](https://socrates.devbootcamp.com/sql_tests)  Complete this challenge on Socrates
+- [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge) - if not finished over the weekend.
+- [Poll Database Design](../../../../poll-database-design-challenge)
+- [Poll DB 1: Queries](../../../../poll-db-1-queries-challenge)
+- [Poll DB 2: Modifying Data](../../../../poll-db-2-modifying-data-challenge)
 
 **Prep for Tomorrow**
 
@@ -42,12 +42,12 @@
 
 **Challenges**
 
-- [Design Your Own Database](../../../../design-your-own-database-challenge) 45min
-- [IMDB Database Design](../../../../imdb-database-design-challenge) 45min
-- [Reddit Jr Database Design](../../../../reddit-jr-database-design-challenge) 45min
-- [Forum Database Design](../../../../forum-database-design-challenge) 45min
-- [Database Drill: SQLite Shell Part 1](../../../../database-drill-sqlite-shell-part-1-challenge) 1h
-- [Database Drill: SQLite Shell Part 2](../../../../database-drill-sqlite-shell-part-2-challenge) 45min
+- [Design Your Own Database](../../../../design-your-own-database-challenge)
+- [IMDB Database Design](../../../../imdb-database-design-challenge)
+- [Reddit Jr Database Design](../../../../reddit-jr-database-design-challenge)
+- [Forum Database Design](../../../../forum-database-design-challenge)
+- [Database Drill: SQLite Shell Part 1](../../../../database-drill-sqlite-shell-part-1-challenge)
+- [Database Drill: SQLite Shell Part 2](../../../../database-drill-sqlite-shell-part-2-challenge)
 
 ### Additional Resources
 
@@ -106,12 +106,12 @@ No lecture due to assessments.
 
 **Challenges**
 
-- [Active Record Intro: Code Base](../../../../active-record-intro-code-base-challenge) 1.5hs -- Don't rush through this challenge.
-- [Active Record Intro: Creating Tables](../../../../active-record-intro-creating-tables-challenge) 1h
-- [Active Record Intro: Editing Tables](../../../../active-record-intro-editing-tables-challenge) 30min
-- [Active Record Intro: Retreiving Records](../../../../active-record-intro-retreiving-records-challenge) 30min
-- [Active Record Intro: Inserting Records](../../../../active-record-intro-inserting-records-challenge) 45min
-- [Active Record Intro: Objects](../../../../active-record-intro-objects-challenge) 30min
+- [Active Record Intro: Code Base](../../../../active-record-intro-code-base-challenge) -- Don't rush through this challenge.
+- [Active Record Intro: Creating Tables](../../../../active-record-intro-creating-tables-challenge)
+- [Active Record Intro: Editing Tables](../../../../active-record-intro-editing-tables-challenge)
+- [Active Record Intro: Retreiving Records](../../../../active-record-intro-retreiving-records-challenge)
+- [Active Record Intro: Inserting Records](../../../../active-record-intro-inserting-records-challenge)
+- [Active Record Intro: Objects](../../../../active-record-intro-objects-challenge)
 
 **Prep for Tomorrow**
 
@@ -135,13 +135,13 @@ No prep for tomorrow
 
 **Challenges**
 
-- [ActiveRecord Student Schema](../../../../db-drill-ar-student-schema-challenge) 45min
-- [Active Record Congress DB 1](../../../../activerecord-congress-database-1-modeling-congresspeople-challenge) 2hs
-- [Active Record Congress DB 2](../../../../activerecord-congress-database-2-tweet-archive-challenge) 1.5hs
-- [Active Record: Design Your Own](../../../../activerecord-design-your-own-challenge) 1.5hs
-- [Active Record Intro: belongs_to Association](../../../../active-record-intro-belongs-to-association-challenge) 1h
-- [Active Record Intro: has_many Association](../../../../active-record-intro-has-many-association-challenge) 1h
-- [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge) 45min
+- [ActiveRecord Student Schema](../../../../db-drill-ar-student-schema-challenge)
+- [Active Record Congress DB 1](../../../../activerecord-congress-database-1-modeling-congresspeople-challenge)
+- [Active Record Congress DB 2](../../../../activerecord-congress-database-2-tweet-archive-challenge)
+- [Active Record: Design Your Own](../../../../activerecord-design-your-own-challenge)
+- [Active Record Intro: belongs_to Association](../../../../active-record-intro-belongs-to-association-challenge)
+- [Active Record Intro: has_many Association](../../../../active-record-intro-has-many-association-challenge)
+- [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge)
 
 **Prep for Tomorrow**
 
