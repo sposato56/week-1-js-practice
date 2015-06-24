@@ -1,0 +1,214 @@
+# Week 2 - Object Oriented Programming
+
+<table>
+  <tr>
+  <th colspan="6">Quick Reference</th>
+  </tr>
+
+  <tr>
+  <td><a href="#monday">Monday</a></a></td>
+  <td><a href="#tuesday">Tuesday</a></td>
+  <td><a href="#wednesday">Wednesday</a></td>
+  <td><a href="#thursday">Thursday</a></td>
+  <td><a href="#friday">Friday</a></td>
+  <td><a href="#weekend">Weekend</a></td>
+  </tr>
+</table>
+
+---
+
+## Monday
+### Introduction to OOP
+
+### Core
+
+**Lecture**
+
+[Sudoku Recap & Introduction to OOP](../resources/lectures.md#introduction-to-oop)
+
+**Challenges**
+
+- [Ruby Drill: Accessor Methods](../../../../ruby-drill-accessor-methods-challenge)
+- [Design Drill: Public vs. Private Interfaces](../../../../design-drill-public-vs-private-interfaces-challenge)
+- [Ruby Drill: The self Keyword](../../../../ruby-drill-the-self-keyword-challenge)
+- [Ruby Drill: Exploring Scope](../../../../ruby-drill-exploring-scope-challenge)
+- [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
+
+**Prep for Tomorrow**
+
+- Practicing POODR - read POODR throughout the week. For each chapter, apply the concept to your personal "OBJECT" in code.
+
+### Stretch
+
+**Challenges**
+
+- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
+
+### Additional Resources
+- [Tupperware example solution](https://gist.github.com/al2o3cr/2dc01e1176815d60082c)
+- [Aquarium example solution](https://gist.github.com/openspectrum/5a1155cb537b8a096bcf#file-aquarium-rb)
+- [Ruby OOP overview](http://zetcode.com/lang/rubytutorial/oop/)
+- [Wikipedia on OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)
+
+---
+
+## Tuesday
+### Object Oriented Design with Inheritance and Composition
+
+### Core
+
+**Lecture**
+
+[Inheritance, Mixins, and Composition](../resources/lectures.md#inheritance-mixins-composition)
+
+**Challenges**
+
+- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
+- [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
+- [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+
+**Prep for Tomorrow**
+
+- [Reading Open Source Software: Nokogiri](../readings/reading-oss/README.md)
+
+### Stretch
+
+**Challenges**
+
+- [Hospital Interface](../../../../hospital-interface-challenge)
+- [Parsing Data 2](../../../../parsing-data-2-csv-in-anything-out-challenge)
+
+### Additional Resources
+- [Inheritance vs. composition](http://ruby.learncodethehardway.org/book/ex44.html)
+- [OO terminology](https://gist.github.com/brickthorn/69d4feddd5857ba69a7f)
+- [OO Ruby basics](http://www.tutorialspoint.com/ruby/ruby_object_oriented.htm)
+
+---
+
+## Wednesday
+### OOP Practice
+
+### Core
+
+**Lecture**
+
+No lecture.
+
+**Challenges**
+
+- [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge)
+- [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
+- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
+
+**Prep for Tomorrow**
+
+No prep for tomorrow.
+
+### Stretch
+
+**Challenges**
+
+- [Scraping HN 2](../../../../scraping-hn-2-saving-to-csv-challenge)
+- [The Rational Numbers](../../../../the-rational-numbers-challenge)
+
+### Additional Resources
+- [Your miyagi moment](http://techcrunch.com/2013/08/10/your-miyagi-moment/)
+- [DOM](http://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+- [Single Responsibility notes from Practical Object Oriented Design in Ruby](https://gist.github.com/abinoda/70611d45d7311d6677f5)
+- [OOP terminology](https://gist.github.com/brickthorn/69d4feddd5857ba69a7f)
+- [Inheritance examples](https://gist.github.com/alycit/1cbd6dbe2440add98fb2)
+- [Strategy Design Pattern](http://en.wikipedia.org/wiki/Strategy_pattern)
+- [Programming with Nothing - madness!](http://codon.com/programming-with-nothing)
+- [An Intro to Procs, Blocks, Lambdas and Closures in Ruby](http://www.youtube.com/watch?v=VBC-G6hahWA)
+- [When to use Procs vs Lamdas](http://stackoverflow.com/questions/626/when-to-use-lambda-when-to-use-proc-new)
+
+---
+
+## Thursday
+### Mock Assessments and Further Practice
+
+### Core
+
+**Lecture**
+
+No lecture due to mock assessments.
+
+**Challenges**
+
+- [Ruby Todos 1](../../../../ruby-todos-1-0-core-features-challenge)
+
+**Prep for Tomorrow**
+
+- [Model View Controller](../readings/model-view-controller/README.md)
+
+### Stretch
+
+**Challenges**
+
+- [Ruby Todos 2](../../../../ruby-todos-2-0-additional-features-challenge) 1.5hs
+- [Design Drill: Object Composition](../../../../design-drill-object-composition-challenge) 2hs
+
+---
+
+## Friday
+### Group Projects
+
+### Core
+
+**Lecture**
+
+[Classes: Single Responsibility and Dependencies](../resources/lectures.md#classes-single-responsibility-and-managing-dependencies)
+
+**Challenges**
+
+- [Ruby Flashcards 1 Single Deck](../../../../ruby-flashcards-1-single-deck-challenge)
+
+**Prep for Tomorrow**
+
+- [Schema Design](../readings/schema-design/README.md)
+
+### Stretch
+
+**Challenges**
+
+- [Ruby Flashcards 2 MVC Pattern More](../../../../ruby-flashcards-2-mvc-pattern-more-challenge)
+
+### Additional Resources
+- [Managing dependencies](https://gist.github.com/abinoda/a3728f013e81db9e9e80)
+
+---
+
+## Weekend
+
+### Core
+
+**Challenges**
+
+- Install SQLite on your laptop and ensure that it is working.
+- [Database Drill: Student Roster](../../../../database-drill-student-roster-challenge)
+- [Database Drill: One to Many Schema](../../../../database-drill-one-to-many-schema-challenge)
+- [Database Drill: One to One Schema](../../../../database-drill-one-to-one-schema-challenge)
+- [Database Drill: Many to Many Schema](../../../../database-drill-many-to-many-schema-challenge)
+- [Database Drill: Address Book Schema](../../../../db-drill-address-book-schema-challenge)
+- [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge)
+
+**Prep for Monday**
+
+- Finish reading [Practical Object Oriented Programming in Ruby](https://www.dropbox.com/s/82gx9sf00vmonad/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf).  There is a hardcopy available on the DBC bookshelf.  An electronic copy is available in the [DBC Books Dropbox](https://www.dropbox.com/sh/cyje5e6cfk708al/USop5LBSQA).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.
+- [Relational Database Design](http://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
+
+### Stretch
+
+**Challenges**
+
+- [Mastermind Game Challenge](../../../../mastermind-challenge)
+- [Bowling Game Code Kata](http://www.codingdojo.org/cgi-bin/index.pl?KataBowling) (external website)
+- [OO Inheritance](../../../../p5-oo-inheritance-challenge)
+- [OO Terminology](../../../../p6-oo-terminology-challenge)
+
+### Additional Resources
+- [Zetcode's SQLite Tutorial](http://zetcode.com/db/sqlite/)
+- [VIDEO: Databases and SQL - an introduction](http://www.youtube.com/watch?v=SVV7HjKmFY4)
+- [VIDEO: Database Fundamentals](http://www.youtube.com/watch?v=xNJZYX6tpWU)
+- [VIDEO: Relational Database Concepts](https://www.youtube.com/watch?v=NvrpuBAMddw)
