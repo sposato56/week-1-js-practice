@@ -135,9 +135,9 @@ No prep for tomorrow
 
 **Challenges**
 
-- [ActiveRecord Student Schema](../../../../db-drill-ar-student-schema-challenge)
-- [Active Record Congress DB 1](../../../../activerecord-congress-database-1-modeling-congresspeople-challenge)
-- [Active Record Congress DB 2](../../../../activerecord-congress-database-2-tweet-archive-challenge)
+- [ActiveRecord Student Schema](../../../../active-record-drill-model-a-student-challenge)
+- [Active Record Congress DB 1](../../../../active-record-legislators-challenge)
+- [Active Record Congress DB 2](../../../../active-record-legislator-tweets-challenge)
 - [Active Record: Design Your Own](../../../../activerecord-design-your-own-challenge)
 - [Active Record Intro: belongs_to Association](../../../../active-record-intro-belongs-to-association-challenge)
 - [Active Record Intro: has_many Association](../../../../active-record-intro-has-many-association-challenge)
@@ -178,7 +178,7 @@ No prep for tomorrow.
 
 **Challenges**
 
-- [Active Record Todo's 1](../../../../activerecord-todos-part-1-challenge)
+- [Active Record Todo's 1](../../../../active-record-todos-challenge)
 - [Active Record Todo's 2](../../../../activerecord-todos-part-2-challenge)
 
 ---
