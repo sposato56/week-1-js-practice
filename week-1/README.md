@@ -79,7 +79,7 @@
 *Enumerables*
 
 - [Ruby Drill: Enumerable Methods](../../../../ruby-drill-enumerable-methods-challenge)
-- [Implement Enumerable](../../../../implement-enumerable-challenge-experiment)
+- [Implement Enumerable](../../../../implement-enumerable-challenge)
 - [Ruby Drill: Destructive Methods](../../../../ruby-drill-destructive-methods-challenge)
 - [Algorithm Drill: Shuffle](../../../../algorithm-drill-shuffle-challenge)
 
