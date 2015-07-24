@@ -236,7 +236,7 @@ end
 ## Conclusion
 At this point, we've taken a largely illegible method, refactored it to make it more readable, and piece-by-piece extracted out all the tiny bits of logic being done.  It might seem like a lot of extra work to take a working method and make changes that provide no immediate gains.
 
-However, consider Wednesday's [prime factors challenge](../../../../algorithm-drill-prime-factors-challenge).  What does that challenge entail?  Finding a numbers factors?  Determining whether or not a number is prime?  I can complete the prime factors challenge, relying largely on the individual methods extracted from the `#squared_primes` method to do the heavy lifting.
+However, consider Wednesday's [prime factors challenge](../../../../../algorithm-drill-prime-factors-challenge).  What does that challenge entail?  Finding a numbers factors?  Determining whether or not a number is prime?  I can complete the prime factors challenge, relying largely on the individual methods extracted from the `#squared_primes` method to do the heavy lifting.
 
 ```ruby
 def prime_factors(number)
