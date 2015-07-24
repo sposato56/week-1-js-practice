@@ -1,7 +1,6 @@
 99-bottles-challenge
-activerecord-congress-database-1-modeling-congresspeople-challenge
-activerecord-congress-database-2-tweet-archive-challenge
 activerecord-design-your-own-challenge
+active-record-drill-model-a-student-challenge
 active-record-intro-belongs-to-association-challenge
 active-record-intro-code-base-challenge
 active-record-intro-creating-tables-challenge
@@ -11,11 +10,13 @@ active-record-intro-inserting-records-challenge
 active-record-intro-objects-challenge
 active-record-intro-retreiving-records-challenge
 active-record-intro-validations-challenge
+active-record-legislators-challenge
+active-record-legislator-tweets-challenge
 activerecord-jr-1-a-basic-orm-challenge
 activerecord-jr-2-sql-be-gone-challenge
 activerecord-jr-3-pragmatism-challenge
 activerecord-jr-4-metaprogramming-challenge
-activerecord-todos-part-1-challenge
+active-record-todos-challenge
 activerecord-todos-part-2-challenge
 address-book-db-from-schema-challenge
 advanced-calculator-challenge
@@ -49,7 +50,6 @@ database-drill-sqlite-shell-part-1-challenge
 database-drill-sqlite-shell-part-2-challenge
 database-drill-student-roster-challenge
 db-drill-address-book-schema-challenge
-db-drill-ar-student-schema-challenge
 db-drill-ar-symmetric-migrations-challenge
 cheering-mascot-challenge
 debugging-drill-read-the-error-challenge
