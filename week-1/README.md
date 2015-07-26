@@ -48,12 +48,15 @@
 - [99 Bottles](../../../../99-bottles-challenge)
 - [Battleship](../../../../battleship-challenge)
 
-### Additional Resources
+### Coding Resources
 
-- [code style](https://github.com/airbnb/ruby)
-- [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html)
-- [Combating code smells challenge](../../../../combating-smells-extract-method-challenge)
+- [Style Guide for Writing Ruby](https://github.com/airbnb/ruby)
+- [Intro and Hints for Using IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html)
+- [Combating Code Smells Challenge](../../../../combating-smells-extract-method-challenge)
 - [Jim Weirich on Roman Numerals](https://www.youtube.com/watch?v=983zk0eqYLY)
+
+### Learning and DBC Resources
+
 - [DBC's Three Agreements](../resources/three-agreements.md) with your pairing partner. Talk about which of the three agreements you anticipate will be most difficult for you in the weeks to come and why.
 - [DBC Student Handbook:  Policies](http://socrates.devbootcamp.com/labs/student-handbook/introduction/dbc-policies)
 - [DBC Student Handbook:  Becoming a World-class Beginner](http://socrates.devbootcamp.com/labs/student-handbook/introduction/becoming-a-world-class-beginner)
