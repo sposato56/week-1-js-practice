@@ -2,7 +2,7 @@
 
 ### On Day One
 
-Each person in the cohort should do the following:
+Each person in the cohort should do the following to set up their GitHub account to work with some DBC tools:
 
 1. Go to your image in the top right of github page and open the drop down menu.
 - Select 'Settings' from the dropdown.
