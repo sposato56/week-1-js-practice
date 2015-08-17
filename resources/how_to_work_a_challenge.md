@@ -8,7 +8,7 @@
   - Make sure you have a primary email set.
   - Under 'Personal Settings', select 'Profile' and make sure your public email is set.
 
-### We will be using github to submit and review all challenges. This is the standard workflows we will use.
+### We will be using github to submit and review all challenges. This is the standard workflow we will use.
 
 1. Set your usernames at the command prompt on the laptop or workstation you are working on.
 
