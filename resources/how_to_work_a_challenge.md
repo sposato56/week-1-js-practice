@@ -1,23 +1,27 @@
 # Challenge / Github Workflow
 
-### On Day One only each person in the cohort should do the following:
-  1. Go to your image in the top right of github page and open the drop down menu.
-  - Select 'Settings' from the dropdown.
-  - In the Name field, please put your first and last name.
-  - On the left navigation under 'Personal Settings', select 'Emails'
-  - Make sure you have a primary email set.
-  - Under 'Personal Settings', select 'Profile' and make sure your public email is set.
+### On Day One
 
-### We will be using github to submit and review all challenges. This is the standard workflow we will use.
+Each person in the cohort should do the following:
+
+1. Go to your image in the top right of github page and open the drop down menu.
+- Select 'Settings' from the dropdown.
+- In the Name field, please put your first and last name.
+- On the left navigation under 'Personal Settings', select 'Emails'
+- Make sure you have a primary email set.
+
+### Every Day
+
+We will be using GitHub to submit and review all challenges. This is the standard workflow we will use.
 
 1. Set your usernames at the command prompt on the laptop or workstation you are working on.
 
   For More than one student working on a challenge
   ```shell
   No Git User ~
-  $ weare alycit mattbaker ltw
+  $ weare alycit ltw
 
-  Alyssa Diaz & Lucas Willett & Matt Baker ~
+  Alyssa Diaz & Lucas Willett ~
   $
   ```
   For Solo Work
