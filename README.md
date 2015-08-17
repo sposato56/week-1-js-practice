@@ -16,7 +16,7 @@
 
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
-- [How to Submit a Challenge](resources/how-to-submit.md)
+- [Challenge Workflow](resources/how_to_work_a_challenge.md)
 - [Counseling Session Signup](resources/counseling_instructions.md)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Daily Schedules](resources/daily_schedules.md)
