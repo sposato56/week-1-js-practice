@@ -109,7 +109,7 @@ No lecture due to assessments.
 - [Active Record Intro: Code Base](../../../../active-record-intro-code-base-challenge) -- Don't rush through this challenge.
 - [Active Record Intro: Creating Tables](../../../../active-record-intro-creating-tables-challenge)
 - [Active Record Intro: Editing Tables](../../../../active-record-intro-editing-tables-challenge)
-- [Active Record Intro: Retreiving Records](../../../../active-record-intro-retreiving-records-challenge)
+- [Active Record Intro: Retrieving Records](../../../../active-record-intro-retrieving-records-challenge)
 - [Active Record Intro: Inserting Records](../../../../active-record-intro-inserting-records-challenge)
 - [Active Record Intro: Objects](../../../../active-record-intro-objects-challenge)
 
