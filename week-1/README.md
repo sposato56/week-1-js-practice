@@ -24,7 +24,7 @@
 
 **Read This First**
 
-[Intro to GitHub-based Challenge System](../resources/how-to-submit.md)
+[Intro to GitHub-based Challenge System](../resources/how_to_work_a_challenge.md)
 
 **Challenges**
 
