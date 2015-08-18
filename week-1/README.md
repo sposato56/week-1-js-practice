@@ -22,7 +22,7 @@
 
 ### Core
 
-**Read This First**
+**Lecture**
 
 [Intro to GitHub-based Challenge System](../resources/how_to_work_a_challenge.md)
 
@@ -37,7 +37,6 @@
 
 **Prep for Tomorrow**
 
-- [Sam Blackman's Intro to RSpec](https://talks.devbootcamp.com/intro-to-rspec)
 - [RSpec Basics](../readings/rspec/README.md)
 - [Regular Expressions](../readings/regular-expressions/README.md)
 
@@ -69,6 +68,10 @@
 ### Testing with RSpec and Enumerables
 
 ### Core
+
+**Lecture**
+
+[RSpec Intro](../resources/lectures.md#rspec-basics)
 
 **Challenges**
 
@@ -158,7 +161,7 @@
 
 ### Core
 
-**Workshop**
+**Lecture**
 
 [Object Heap & Nested Data Structures](../resources/lectures.md#object-heap-and-nested-data-structures)
 
@@ -198,7 +201,7 @@
 
 ### Core
 
-**Workshop**
+**Lecture**
 
 [Sudoku Workshop & Group Dynamics](../resources/lectures.md#sudoku-workshop)
 
@@ -219,7 +222,6 @@
 **Challenges**
 
 Either with a pair or on your own, complete the following challenges.
-
 - [Review: Abstract Data Structures](../../../../review-abstract-data-structures-challenge)
 - [Review: Calculating Subsets with Recursion](../../../../review-calculating-subsets-with-recursion-challenge)
 - [Review: Reflect and Iterate](../../../../review-reflect-and-iterate-challenge)
