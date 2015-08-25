@@ -36,6 +36,7 @@
 
 **Prep for Tomorrow**
 
+- Watch [Inheritance and Mixins](https://talks.devbootcamp.com/inheritance-and-mixins)
 - Practicing POODR - read POODR throughout the week. For each chapter, apply the concept to your personal "OBJECT" in code.
 
 ### Stretch
