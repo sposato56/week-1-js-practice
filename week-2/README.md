@@ -125,8 +125,8 @@ No prep for tomorrow.
 
 **Solo Challenges**
 
-- [For First Time Cicadas](../../../../bernies-bistro-solo-timed-challenge)
-- [For Repeats](../../../../solo-timed-challenge-2)
+- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
+- [For Students Repeating Phase 1](../../../../solo-timed-challenge-2)
 
 **Challenges**
 
