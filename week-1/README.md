@@ -24,7 +24,7 @@
 
 **Lecture**
 
-[Intro to GitHub-based Challenge System](../resources/lectures.md#github-based-challenge-system)
+[Intro to GitHub-based Challenge System](../resources/how_to_work_a_challenge.md)
 
 **Challenges**
 
@@ -47,12 +47,16 @@
 - [99 Bottles](../../../../99-bottles-challenge)
 - [Battleship](../../../../battleship-challenge)
 
-### Additional Resources
+### Coding Resources
 
-- [code style](https://github.com/airbnb/ruby)
-- [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html)
-- [Combating code smells challenge](../../../../combating-smells-extract-method-challenge)
+- [Style Guide for Writing Ruby](https://github.com/airbnb/ruby)
+- [Intro and Hints for Using IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html)
+- [Combating Code Smells Challenge](../../../../combating-smells-extract-method-challenge)
 - [Jim Weirich on Roman Numerals](https://www.youtube.com/watch?v=983zk0eqYLY)
+- [Git shortcuts](https://github.com/ArslanBilal/Git-Cheat-Sheet)
+
+### Learning and DBC Resources
+
 - [DBC's Three Agreements](../resources/three-agreements.md) with your pairing partner. Talk about which of the three agreements you anticipate will be most difficult for you in the weeks to come and why.
 - [DBC Student Handbook:  Policies](http://socrates.devbootcamp.com/labs/student-handbook/introduction/dbc-policies)
 - [DBC Student Handbook:  Becoming a World-class Beginner](http://socrates.devbootcamp.com/labs/student-handbook/introduction/becoming-a-world-class-beginner)
@@ -79,7 +83,7 @@
 *Enumerables*
 
 - [Ruby Drill: Enumerable Methods](../../../../ruby-drill-enumerable-methods-challenge)
-- [Implement Enumerable](../../../../implement-enumerable-challenge-experiment)
+- [Implement Enumerable](../../../../implement-enumerable-challenge)
 - [Ruby Drill: Destructive Methods](../../../../ruby-drill-destructive-methods-challenge)
 - [Algorithm Drill: Shuffle](../../../../algorithm-drill-shuffle-challenge)
 
@@ -226,7 +230,7 @@ Either with a pair or on your own, complete the following challenges.
 
 **Prep for Monday**
 
-- Read Chapters 2 and 3 of [Practical Object Oriented Programming in Ruby](http://www.beginsmarter.com/pdf/Practical_OO_Design_Ruby.pdf).  There is a hardcopy available on the DBC bookshelf.  An electronic copy is available in the [DBC Books Dropbox](https://www.dropbox.com/s/jp1qjx2qhb1wqm8/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.  You should finish reading the book throughout Week 2.
+- Read Chapters 2 and 3 of [Practical Object Oriented Programming in Ruby](http://amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley-ebook/dp/B0096BYG7C/).  There is a hardcopy available on the DBC bookshelf.  An electronic copy is available in the [DBC Books Dropbox](https://www.dropbox.com/s/jp1qjx2qhb1wqm8/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.  You should finish reading the book throughout Week 2.
 - Read the Apprenticeship Pattern on [exposing your ignorance](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#expose_your_ignorance).  It's really hard for smart, hard-working, passionate people to admit when they don't get something. Our natural tendency is to guard our ignorance so that everyone thinks we're competent.  Effective developers expose their ignorance. Period.
 - [Ruby Scope](../readings/ruby-scope/README.md)
 

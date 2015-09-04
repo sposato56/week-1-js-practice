@@ -27,6 +27,7 @@ algorithm-drill-prime-factors-challenge
 algorithm-drill-shuffle-challenge
 anagrams-1-detecting-anagrams-challenge
 anagrams-2-generating-anagrams-challenge
+ar-skeleton
 battleship-challenge
 binary-vs-linear-searching-challenge
 boggle-1-basic-board-generation-challenge
@@ -113,6 +114,7 @@ ruby-todos-2-0-additional-features-challenge
 scraping-hn-1-building-objects-challenge
 scraping-hn-2-saving-to-csv-challenge
 simple-benchmarking-with-blocks-challenge
+student-handbook
 student-roster-db-from-schema-challenge
 sudoku-challenge
 the-fibonacci-sequence-challenge
