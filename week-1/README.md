@@ -22,9 +22,9 @@
 
 ### Core
 
-**Lecture**
+**Read This First**
 
-[Intro to GitHub-based Challenge System](../resources/how_to_work_a_challenge.md)
+[Intro to GitHub-based Challenge System](../resources/how-to-submit.md)
 
 **Challenges**
 
@@ -37,6 +37,7 @@
 
 **Prep for Tomorrow**
 
+- [Sam Blackman's Intro to RSpec](https://talks.devbootcamp.com/intro-to-rspec)
 - [RSpec Basics](../readings/rspec/README.md)
 - [Regular Expressions](../readings/regular-expressions/README.md)
 
@@ -69,10 +70,6 @@
 
 ### Core
 
-**Lecture**
-
-[RSpec Intro](../resources/lectures.md#rspec-basics)
-
 **Challenges**
 
 - [Pig Latin](../../../../pig-latin-challenge)
@@ -88,6 +85,7 @@
 - [Algorithm Drill: Shuffle](../../../../algorithm-drill-shuffle-challenge)
 
 **Prep for Tomorrow**
+
 - [Writing Readable Code](../readings/writing-readable-code/README.md)
 
 ### Stretch
@@ -115,7 +113,7 @@
 
 ### Core
 
-**Lecture**
+**Workshop**
 
 [Iteration and Recursion](../resources/lectures.md#iteration-and-recursion)
 
@@ -161,7 +159,7 @@
 
 ### Core
 
-**Lecture**
+**Workshop**
 
 [Object Heap & Nested Data Structures](../resources/lectures.md#object-heap-and-nested-data-structures)
 
@@ -201,9 +199,9 @@
 
 ### Core
 
-**Lecture**
+**Workshop**
 
-[Sudoku Workshop & Group Dynamics](../resources/lectures.md#sudoku-workshop)
+[Sudoku & Group Dynamics](../resources/lectures.md#sudoku-workshop)
 
 **Challenges**
 
