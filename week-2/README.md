@@ -36,6 +36,7 @@
 
 **Prep for Tomorrow**
 
+- Watch [Inheritance and Mixins](https://talks.devbootcamp.com/inheritance-and-mixins)
 - Practicing POODR - read POODR throughout the week. For each chapter, apply the concept to your personal "OBJECT" in code.
 
 ### Stretch
@@ -56,10 +57,6 @@
 ### Object Oriented Design with Inheritance and Composition
 
 ### Core
-
-**Lecture**
-
-[Inheritance, Mixins, and Composition](../resources/lectures.md#inheritance-mixins-composition)
 
 **Challenges**
 
@@ -90,10 +87,6 @@
 ### OOP Practice
 
 ### Core
-
-**Lecture**
-
-No lecture.
 
 **Challenges**
 
@@ -126,13 +119,14 @@ No prep for tomorrow.
 ---
 
 ## Thursday
-### Mock Assessments and Further Practice
+### Solo Timed Challenge and Further Practice
 
 ### Core
 
-**Lecture**
+**Solo Challenges**
 
-No lecture due to mock assessments.
+- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
+- [For Students Repeating Phase 1](../../../../solo-timed-challenge-2)
 
 **Challenges**
 
@@ -141,6 +135,8 @@ No lecture due to mock assessments.
 **Prep for Tomorrow**
 
 - [Model View Controller](../readings/model-view-controller/README.md)
+- Watch [Model View Controller refactoring of Bernie's Bistro](https://talks.devbootcamp.com/mvc-refactoring-bernies-code)
+
 
 ### Stretch
 
@@ -155,10 +151,6 @@ No lecture due to mock assessments.
 ### Group Projects
 
 ### Core
-
-**Lecture**
-
-[Classes: Single Responsibility and Dependencies](../resources/lectures.md#classes-single-responsibility-and-managing-dependencies)
 
 **Challenges**
 

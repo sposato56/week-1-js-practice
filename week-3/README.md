@@ -62,10 +62,6 @@
 
 ### Core
 
-**Lecture**
-
-No lecture.
-
 **Challenges**
 
 - [Student Roster DB from Schema](../../../../student-roster-db-from-schema-challenge)
@@ -100,10 +96,6 @@ No lecture.
 
 ### Core
 
-**Lecture**
-
-No lecture due to assessments.
-
 **Challenges**
 
 - [Active Record Intro: Code Base](../../../../active-record-intro-code-base-challenge) -- Don't rush through this challenge.
@@ -115,7 +107,7 @@ No lecture due to assessments.
 
 **Prep for Tomorrow**
 
-No prep for tomorrow
+- [Intro to ActiveRecord](https://talks.devbootcamp.com/active-record-introduction)
 
 ### Additional Resources
 
@@ -129,23 +121,20 @@ No prep for tomorrow
 
 ### Core
 
-**Lecture**
-
-[Introduction to ActiveRecord](../resources/lectures.md#introduction-to-activerecord)
-
 **Challenges**
 
+- [Active Record Intro: belongs_to Association](../../../../active-record-intro-belongs-to-association-challenge)
+- [Active Record Intro: has_many Association](../../../../active-record-intro-has-many-association-challenge)
+- [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge)
 - [ActiveRecord Student Schema](../../../../active-record-drill-model-a-student-challenge)
 - [Active Record Congress DB 1](../../../../active-record-legislators-challenge)
 - [Active Record Congress DB 2](../../../../active-record-legislator-tweets-challenge)
 - [Active Record: Design Your Own](../../../../activerecord-design-your-own-challenge)
-- [Active Record Intro: belongs_to Association](../../../../active-record-intro-belongs-to-association-challenge)
-- [Active Record Intro: has_many Association](../../../../active-record-intro-has-many-association-challenge)
-- [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge)
 
 **Prep for Tomorrow**
 
-No prep for tomorrow.
+- [ActiveRecord Associations](https://talks.devbootcamp.com/active-record-associations-4)
+- If you want to go deeper, [ActiveRecord Associations Q&A](https://talks.devbootcamp.com/activerecord-associations-q-and-a)
 
 ### Stretch
 
@@ -171,10 +160,6 @@ No prep for tomorrow.
 ### Group Projects
 
 ### Core
-
-**Lecture**
-
-[ActiveRecord Associations](../resources/lectures.md#activerecord-associations)
 
 **Challenges**
 
