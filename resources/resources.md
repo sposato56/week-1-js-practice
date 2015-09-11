@@ -8,15 +8,10 @@ These resources are also linked from individual challenges.  If you find a resou
 - [Ruby Operators](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
 - [Enumerable](http://ruby-doc.org/core-1.9.3/Enumerable.html)
 
-### Methods
-
-- [Is Ruby pass by reference or value?](http://stackoverflow.com/questions/1872110/is-ruby-pass-by-reference-or-by-value)
-
 ###Data
 
 - [Primitive Data Types](http://en.wikipedia.org/wiki/Primitive_data_type)
 - [Variable scoping](https://gist.github.com/alycit/cce40544f02946715266)
-
 
 ### Regular Expressions
 
@@ -41,8 +36,15 @@ These resources are also linked from individual challenges.  If you find a resou
 
 ## Development Tools
 - [Important RFCs](http://tangentsoft.net/rfcs/)
+- [Favorite IRB tricks](http://stackoverflow.com/questions/123494/whats-your-favourite-irb-trick)
+- [Pry – an IRB Replacement](http://pryrepl.org/)
+- [Rubyists, It's Time to PRY Yourself Off IRB](http://www.sitepoint.com/rubyists-time-pry-irb/)
 
-## Testing and Debugging
+## Ruby Internals
+- [13 Ways of Looking at Ruby Symbols](http://www.randomhacks.net/articles/2007/01/20/13-ways-of-looking-at-a-ruby-symbol)
+- [Ruby 2.1 Garbage Collection Ready for Production](http://samsaffron.com/archive/2014/04/08/ruby-2-1-garbage-collection-ready-for-production)
+- [Incremental Garbage Collection in Ruby 2.2](https://engineering.heroku.com/blogs/2015-02-04-incremental-gc/)
+- [Is Ruby pass by reference or value?](http://stackoverflow.com/questions/1872110/is-ruby-pass-by-reference-or-by-value)
 
 ## Learning Methodologies
 
@@ -53,13 +55,3 @@ These resources are also linked from individual challenges.  If you find a resou
 ## Engineering Empathy
 
 - tribes we lead, seth godin [TED talk](http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead.html), [community guide](http://sethgodin.typepad.com/seths_blog/files/TribesQA2.pdf)
-
-## More (needs to be organized)
-
-
-- [Ruby Operators](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
-- [13 Ways of Looking at Ruby Symbols](http://www.randomhacks.net/articles/2007/01/20/13-ways-of-looking-at-a-ruby-symbol#3)
-- [Symbol Table Design and Implementation in Ruby](https://www.ruby-forum.com/topic/3513542)
-- [ruby garbage collection](http://www.rubyinside.com/how-ruby-manages-memory-and-garbage-collection-3006.html)
-
-
