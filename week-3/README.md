@@ -28,7 +28,7 @@
 
 **Challenges**
 
-- [Database Drill: SQL Tutor](https://socrates.devbootcamp.com/sql_tests)  Complete this challenge on Socrates
+- [Database Drill: SQL Tutor](https://sqltutor.devbootcamp.com/)  Complete this challenge on Socrates
 - [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge) - if not finished over the weekend.
 - [Poll Database Design](../../../../poll-database-design-challenge)
 - [Poll DB 1: Queries](../../../../poll-db-1-queries-challenge)
