@@ -24,7 +24,7 @@
 
 **Read This First**
 
-[Intro to GitHub-based Challenge System](../resources/how-to-submit.md)
+[Intro to GitHub-based Challenge System(../resources/how_to_work_a_challenge.md)
 
 **Challenges**
 
@@ -59,8 +59,7 @@
 ### Learning and DBC Resources
 
 - [DBC's Three Agreements](../resources/three-agreements.md) with your pairing partner. Talk about which of the three agreements you anticipate will be most difficult for you in the weeks to come and why.
-- [DBC Student Handbook:  Policies](http://socrates.devbootcamp.com/labs/student-handbook/introduction/dbc-policies)
-- [DBC Student Handbook:  Becoming a World-class Beginner](http://socrates.devbootcamp.com/labs/student-handbook/introduction/becoming-a-world-class-beginner)
+- [DBC Student Handbook:  Policies](../../../../student-handbook)
 - [Fixed vs. growth mindsets](http://qedfoundation.org/wp-content/uploads/2012/12/dweck_mindset.png)
 
 ---
@@ -98,8 +97,6 @@
 ### Additional Resources
 
 - [Code smells](https://gist.github.com/alycit/8cecbd9d69e5d0f0be22)
-- [Readable code](https://gist.github.com/openspectrum/1fc609849ee747e333a1)
-- [Regular Expressions](https://gist.github.com/openspectrum/395b89258d2234762b63)
 - [Rubular.com](http://rubular.com/)
 - [Regexper.com](http://www.regexper.com/) - regexp visualizer
 - [Phillip Goldin on Distorted Views of the Self](http://www.youtube.com/watch?v=bKtBxxR0JRM#t=1243) (around 20:40)
@@ -184,7 +181,6 @@
 
 ### Additional Resources
 
-- [Notes on debugging](https://gist.github.com/openspectrum/7c100a04e3c2289ec38a)
 - [Using arrays](http://blog.teamtreehouse.com/ruby-arrays)
 - [Using hashes](http://teamtreehouse.com/library/ruby-foundations#hashes)
 - [Byebug](https://rubygems.org/gems/byebug)
