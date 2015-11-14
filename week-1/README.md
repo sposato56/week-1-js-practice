@@ -97,6 +97,8 @@
 ### Additional Resources
 
 - [Code smells](https://gist.github.com/alycit/8cecbd9d69e5d0f0be22)
+- [Readable code](./resources/readable_code.md)
+- [Regular Expressions](./resources/regular_expressions.md)
 - [Rubular.com](http://rubular.com/)
 - [Regexper.com](http://www.regexper.com/) - regexp visualizer
 - [Phillip Goldin on Distorted Views of the Self](http://www.youtube.com/watch?v=bKtBxxR0JRM#t=1243) (around 20:40)
@@ -181,6 +183,7 @@
 
 ### Additional Resources
 
+- [Notes on debugging](./resources/debugging.md)
 - [Using arrays](http://blog.teamtreehouse.com/ruby-arrays)
 - [Using hashes](http://teamtreehouse.com/library/ruby-foundations#hashes)
 - [Byebug](https://rubygems.org/gems/byebug)
