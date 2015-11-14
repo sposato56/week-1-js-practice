@@ -46,8 +46,8 @@
 - [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
 
 ### Additional Resources
-- [Tupperware example solution](https://gist.github.com/al2o3cr/2dc01e1176815d60082c)
-- [Aquarium example solution](https://gist.github.com/openspectrum/5a1155cb537b8a096bcf#file-aquarium-rb)
+- [Tupperware example solution](./resources/oop_tupperware_example.rb)
+- [Aquarium example solution](./resources/oop_aquarium_example.rb)
 - [Ruby OOP overview](http://zetcode.com/lang/rubytutorial/oop/)
 - [Wikipedia on OOP](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
@@ -78,7 +78,7 @@
 
 ### Additional Resources
 - [Inheritance vs. composition](http://ruby.learncodethehardway.org/book/ex44.html)
-- [OO terminology](https://gist.github.com/brickthorn/69d4feddd5857ba69a7f)
+- [OO terminology](./resources/oop-terminology.md)
 - [OO Ruby basics](http://www.tutorialspoint.com/ruby/ruby_object_oriented.htm)
 
 ---
@@ -108,9 +108,8 @@ No prep for tomorrow.
 ### Additional Resources
 - [Your miyagi moment](http://techcrunch.com/2013/08/10/your-miyagi-moment/)
 - [DOM](http://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-- [Single Responsibility notes from Practical Object Oriented Design in Ruby](https://gist.github.com/abinoda/70611d45d7311d6677f5)
-- [OOP terminology](https://gist.github.com/brickthorn/69d4feddd5857ba69a7f)
-- [Inheritance examples](https://gist.github.com/alycit/1cbd6dbe2440add98fb2)
+- [Single Responsibility notes from Practical Object Oriented Design in Ruby](./resources/oop-single-responsibility-poodr.md)
+- [Inheritance examples](./resources/oop-inheritence-examples.md)
 - [Strategy Design Pattern](http://en.wikipedia.org/wiki/Strategy_pattern)
 - [Programming with Nothing - madness!](http://codon.com/programming-with-nothing)
 - [An Intro to Procs, Blocks, Lambdas and Closures in Ruby](http://www.youtube.com/watch?v=VBC-G6hahWA)
@@ -167,7 +166,7 @@ No prep for tomorrow.
 - [Ruby Flashcards 2 MVC Pattern More](../../../../ruby-flashcards-2-mvc-pattern-more-challenge)
 
 ### Additional Resources
-- [Managing dependencies](https://gist.github.com/abinoda/a3728f013e81db9e9e80)
+- [Managing dependencies](./resources/oop-managing-dependencies.md)
 
 ---
 
