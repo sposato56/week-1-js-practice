@@ -11,7 +11,7 @@ These resources are also linked from individual challenges.  If you find a resou
 ###Data
 
 - [Primitive Data Types](http://en.wikipedia.org/wiki/Primitive_data_type)
-- [Variable scoping](https://gist.github.com/alycit/cce40544f02946715266)
+- [Variable scoping](./resources/variable_scoping.md)
 
 ### Regular Expressions
 

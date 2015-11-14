@@ -85,8 +85,8 @@
 
 ### Additional Resources
 
-- [Executing SQL using Ruby example](https://gist.github.com/alycit/340e49a09146231abca5)
-- [Ruby and SQLite demystified](https://gist.github.com/brickthorn/feefe99fc571324368aa)
+- [Executing SQL using Ruby example](./resources/sql-in-ruby.md)
+- [Ruby and SQLite demystified](.resources/sql-ruby-sqlite3-demystified.md)
 - [Wikipedia on Object-relational mapping](http://en.wikipedia.org/wiki/Object-relational_mapping)
 
 ---

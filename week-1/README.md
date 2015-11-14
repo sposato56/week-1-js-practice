@@ -96,7 +96,7 @@
 
 ### Additional Resources
 
-- [Code smells](https://gist.github.com/alycit/8cecbd9d69e5d0f0be22)
+- [Code smells](./resources/code_smells.md)
 - [Readable code](./resources/readable_code.md)
 - [Regular Expressions](./resources/regular_expressions.md)
 - [Rubular.com](http://rubular.com/)
@@ -145,7 +145,6 @@
 ### Additonal Resources
 
 - [Ruby Scope](https://github.com/devbootcamp/reference/wiki/Ruby-Scope)
-- [Alyssa's lecture notes on scope](https://gist.github.com/alycit/cce40544f02946715266)
 - [The King and His Rocks: A Recursion Story](http://ruby.bastardsbook.com/chapters/recursion/)
 - [Mastering recursive programming](http://www.ibm.com/developerworks/library/l-recurs/index.html) (examples in C)
 - [Tips if your feeling in over your head](http://blog.42floors.com/fake-courage/#.Ujnq1GRARq6)
@@ -208,7 +207,7 @@
 
 ### Additional Resources
 
-- [Pseudocode example](https://gist.github.com/EdConnell/e3cb975d060cdeae68eb)
+- [Pseudocode example](./resources/translate_to_pseudocode.rb)
 
 ---
 
