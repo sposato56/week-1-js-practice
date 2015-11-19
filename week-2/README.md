@@ -120,6 +120,8 @@ No prep for tomorrow.
 ## Thursday
 ### Solo Timed Challenge and Further Practice
 
+### Career Talk at 4:30 PM
+
 ### Core
 
 **Solo Challenges**
