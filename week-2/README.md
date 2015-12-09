@@ -33,6 +33,7 @@
 - [Ruby Drill: The self Keyword](../../../../ruby-drill-the-self-keyword-challenge)
 - [Ruby Drill: Exploring Scope](../../../../ruby-drill-exploring-scope-challenge)
 - [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
+- [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
 
 **Prep for Tomorrow**
 
@@ -84,15 +85,18 @@
 ---
 
 ## Wednesday
-### OOP Practice
+### Solo Timed Challenge & OOP Practice
 
 ### Core
+
+**Solo Challenges**
+
+- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
+- [For Students Repeating Phase 1](../../../../phase-1-alt-mock-assessment)
 
 **Challenges**
 
 - [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge)
-- [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
-- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
 
 **Prep for Tomorrow**
 
@@ -118,19 +122,15 @@ No prep for tomorrow.
 ---
 
 ## Thursday
-### Solo Timed Challenge and Further Practice
+### OOP Practice
 
 ### Career Talk at 4:30 PM
 
 ### Core
 
-**Solo Challenges**
-
-- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
-- [For Students Repeating Phase 1](../../../../solo-timed-challenge-2)
-
 **Challenges**
 
+- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
 - [Ruby Todos 1](../../../../ruby-todos-1-0-core-features-challenge)
 
 **Prep for Tomorrow**
