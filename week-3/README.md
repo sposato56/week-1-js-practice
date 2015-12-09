@@ -28,7 +28,7 @@
 
 **Challenges**
 
-- [Database Drill: SQL Tutor](https://sqltutor.devbootcamp.com/)  Complete this challenge on Socrates
+- [Database Drill: SQL Tutor](https://sqltutor.devbootcamp.com/)  _Switch driver/navigator roles on every question!_
 - [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge) - if not finished over the weekend.
 - [Poll Database Design](../../../../poll-database-design-challenge)
 - [Poll DB 1: Queries](../../../../poll-db-1-queries-challenge)
@@ -107,7 +107,7 @@
 
 **Prep for Tomorrow**
 
-- [Intro to ActiveRecord](https://talks.devbootcamp.com/active-record-introduction)
+- [Introduction to Active Record](https://talks.devbootcamp.com/active-record-introduction) with Torey Hickman
 
 ### Additional Resources
 
@@ -133,8 +133,8 @@
 
 **Prep for Tomorrow**
 
-- [ActiveRecord Associations](https://talks.devbootcamp.com/active-record-associations-4)
-- If you want to go deeper, [ActiveRecord Associations Q&A](https://talks.devbootcamp.com/activerecord-associations-q-and-a)
+- [ActiveRecord Associations](https://talks.devbootcamp.com/active-record-associations-4) with Torey Hickman
+- [Active Record Associations](https://talks.devbootcamp.com/active-record-associations-3) with Mike Busch
 
 ### Stretch
 

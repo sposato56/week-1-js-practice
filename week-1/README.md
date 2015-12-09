@@ -147,7 +147,7 @@
 - [Ruby Scope](https://github.com/devbootcamp/reference/wiki/Ruby-Scope)
 - [The King and His Rocks: A Recursion Story](http://ruby.bastardsbook.com/chapters/recursion/)
 - [Mastering recursive programming](http://www.ibm.com/developerworks/library/l-recurs/index.html) (examples in C)
-- [Tips if your feeling in over your head](http://blog.42floors.com/fake-courage/#.Ujnq1GRARq6)
+- [Feeling like you're in over your head?](http://blog.42floors.com/fake-courage/#.Ujnq1GRARq6)
 - [A recursive cat](http://sweetsugarmama.net/wp-content/uploads/2011/09/hello-kitty-cat-costume.jpg)
 
 ---
