@@ -51,8 +51,8 @@
   - Week 3 - Empathy and Authenticity
 - Improv Experience: Week 2, Tuesday at 6pm
 - Assessment: Week 3, Wednesday
-  * "The Challenge" - 8:15am - 11:45am
-  * "Code Review" - 20 minute blocks starting 1:10pm
+  - "The Challenge" - 8:15am - 11:45am
+  - "Code Review" - 20 minute blocks starting 1:10pm
 
 ## Daily Cadence
 
