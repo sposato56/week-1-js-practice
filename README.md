@@ -43,9 +43,29 @@
 
 ## Weekly Cadence
 
-- Yoga: Monday and Thursday (mandatory)
-- Engineering Empathy: Tuesday, 10am
-- Assessment: Wednesday from 8:15 - 11:45 a.m. (Week 3)
+- Yoga: Monday and Thursday
+- Engineering Empathy: Tuesdays at 10am
+  - Week One - Feedback and Pairing
+  - Week Two - Inner Critic
+  - Week Three - Waterline
+- Improv Experience: Second Tuesday at 6pm
+- Assessment: Third Wednesday starting at 8:15am
+  * "The Challenge" - Wednesday from 8:15am - 11:45am
+  * "Code Review" - 20 minute blocks starting Wednesday at 1:10pm
+
+## Daily Cadence
+
+Time    | Activity
+---     | ---
+7:45am  | Check in with accountability buddies
+8:00am  | Morning Announcements
+8:05am  | Daily Progress Checkin (or following yoga at 9:10am)
+8:25am  | Challenges/Breakouts
+11:30am | Lunch
+1:00pm  | Afternoon Announcements
+1:05pm  | Challenges/Breakouts
+5:00pm  | End of core hours
+5:00pm  | After hours learning/mentoring/solo time
 
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
