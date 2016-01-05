@@ -43,15 +43,16 @@
 
 ## Weekly Cadence
 
-- Yoga: Monday and Thursday
-- Engineering Empathy: Tuesdays at 10am
-  - Week One - Feedback and Pairing
-  - Week Two - Inner Critic
-  - Week Three - Waterline
-- Improv Experience: Second Tuesday at 6pm
-- Assessment: Third Wednesday starting at 8:15am
-  * "The Challenge" - Wednesday from 8:15am - 11:45am
-  * "Code Review" - 20 minute blocks starting Wednesday at 1:10pm
+- Yoga: Monday and Thursday at 8:05am
+- Engineering Empathy (EE): Tuesday at 10am
+  - Week 1 - The Empathic Team
+  - Week 1 - Introverts & Extroverts, Friday at 9:15am
+  - Week 2 - The Inner Critic
+  - Week 3 - Empathy and Authenticity
+- Improv Experience: Week 2, Tuesday at 6pm
+- Assessment: Week 3, Wednesday
+  * "The Challenge" - 8:15am - 11:45am
+  * "Code Review" - 20 minute blocks starting 1:10pm
 
 ## Daily Cadence
 
