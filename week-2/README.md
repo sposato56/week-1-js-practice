@@ -17,6 +17,12 @@
 
 ---
 
+## Groups ##
+
+[Week 2 groups](../../wiki/groups.md#week-2)
+
+---
+
 ## Monday
 ### Introduction to OOP
 

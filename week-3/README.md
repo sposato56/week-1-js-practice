@@ -17,6 +17,12 @@
 
 ---
 
+## Groups ##
+
+[Week 3 groups](../../wiki/groups.md#week-3)
+
+---
+
 ## Monday
 ### Schema Design and Intro to SQL
 

@@ -14,6 +14,11 @@
   <td><a href="#weekend">Weekend</a></td>
   </tr>
 </table>
+---
+
+## Groups ##
+
+[Week 1 groups](../../wiki/groups.md#week-1)
 
 ---
 
