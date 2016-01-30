@@ -192,6 +192,9 @@ No prep for tomorrow.
 - [Database Drill: Address Book Schema](../../../../db-drill-address-book-schema-challenge)
 - [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge)
 
+**Review**
+- [Top Challenges](../resources/key-challenges-p1w2.md) - This is list of the key challenges from week 2. We strongly suggest that you solo on these challenges this weekend using your new found modeling skills.
+
 **Prep for Monday**
 
 - Finish reading [Practical Object Oriented Programming in Ruby](https://www.dropbox.com/s/82gx9sf00vmonad/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf).  There is a hardcopy available on the DBC bookshelf.  An electronic copy is available in the [DBC Books Dropbox](https://www.dropbox.com/sh/cyje5e6cfk708al/USop5LBSQA).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.
