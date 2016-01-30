@@ -229,6 +229,10 @@ Either with a pair or on your own, complete the following challenges.
 - [Review: Reflect on Learning](../../../../review-reflect-on-learning-challenge)
 - [Review: Revisit Roman Numerals](../../../../review-revisit-roman-numeral-challenge)
 
+**Review**
+- [Top Challenges](../resources/key-challenges-p1w1.md) - This is list of the key challenges from week 1. We strongly suggest that you solo on any of these challenges on which you struggled.
+
+
 **Prep for Monday**
 
 - Read Chapters 2 and 3 of [Practical Object Oriented Programming in Ruby](http://amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley-ebook/dp/B0096BYG7C/).  There is a hardcopy available on the DBC bookshelf.  An electronic copy is available in the [DBC Books Dropbox](https://www.dropbox.com/s/jp1qjx2qhb1wqm8/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.  You should finish reading the book throughout Week 2.
