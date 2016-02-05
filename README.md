@@ -41,7 +41,6 @@
 
 ## Weekly Cadence
 
-- Yoga: Monday and Thursday at 8:05am
 - Engineering Empathy (EE): Tuesday at 10am
   - Week 1 - The Empathic Team
   - Week 1 - Introverts & Extroverts, Friday at 9:15am
