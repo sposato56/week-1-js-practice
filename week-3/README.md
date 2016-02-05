@@ -111,6 +111,8 @@
 - [Active Record Intro: Retrieving Records](../../../../active-record-intro-retrieving-records-challenge)
 - [Active Record Intro: Inserting Records](../../../../active-record-intro-inserting-records-challenge)
 - [Active Record Intro: Objects](../../../../active-record-intro-objects-challenge)
+- [Active Record Intro: belongs_to Association](../../../../active-record-intro-belongs-to-association-challenge)
+- [Active Record Intro: has_many Association](../../../../active-record-intro-has-many-association-challenge)
 
 **Prep for Tomorrow**
 
@@ -130,8 +132,6 @@
 
 **Challenges**
 
-- [Active Record Intro: belongs_to Association](../../../../active-record-intro-belongs-to-association-challenge)
-- [Active Record Intro: has_many Association](../../../../active-record-intro-has-many-association-challenge)
 - [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge)
 - [ActiveRecord Student Schema](../../../../active-record-drill-model-a-student-challenge)
 - [Active Record Congress DB 1](../../../../active-record-legislators-challenge)
