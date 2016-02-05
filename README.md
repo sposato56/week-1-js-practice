@@ -41,6 +41,7 @@
 
 ## Weekly Cadence
 
+- Yoga: mandatory once per week, classes available 11:45am - 12:30pm Tuesday through Wednesday
 - Engineering Empathy (EE): Tuesday at 10am
   - Week 1 - The Empathic Team
   - Week 1 - Introverts & Extroverts, Friday at 9:15am
