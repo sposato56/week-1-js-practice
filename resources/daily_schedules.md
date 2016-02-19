@@ -67,7 +67,7 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 
 ## Friday
 * Check in with accountability buddies
-* Confidential Check-in
+* Check-ins
 * Weekly Feedback
 * Weekend Project Kickoff
 * Lunch
