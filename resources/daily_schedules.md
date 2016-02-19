@@ -5,13 +5,12 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 ## Monday
 
 * Check in with accountability buddies
-* Announcements
-* Yoga
-* Morning Lecture
+* Cohort Standup
+* Morning Breakout session (if needed)
 * Challenges
 * Lunch
 * Announcements
-* Afternoon Lecture
+* Afternoon Breakout session (if needed)
 * Challenges
 * End of core hours
 * Challenges, Optimize your learning
@@ -21,13 +20,14 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 ## Tuesday
 
 * Check in with accountability buddies
-* Announcements
-* Morning Lecture
+* Cohort Standup
+* Morning Breakout session (if needed)
 * Challenges
-* Engineering Empathy
+* Engineering Empathy Session
 * Lunch
 * Announcements
-* Afternoon Lecture
+* Individual Counseling Sessions (available 2-6pm)
+* Afternoon Breakout session (if needed)
 * Challenges
 * End of core hours
 * Challenges, Optimize your learning
@@ -35,13 +35,12 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 ## Wednesday
 
 * Check in with accountability buddies
-* Announcements
-* Yoga
-* Morning Lecture
+* Cohort Standup
+* Morning Breakout session (if needed)
 * Challenges
 * Lunch
 * Announcements
-* Afternoon Lecture
+* Afternoon Breakout session (if needed)
 * Challenges
 * End of core hours
 * Challenges, Optimize your learning
@@ -52,10 +51,13 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 ## Thursday
 
 * Check in with accountability buddies
-* Announcements
-* Mock assessment / assessment (Weeks 2 and 3)
+* Cohort Standup
+* Morning Breakout session (if needed)
+* Challenges
+* Yoga
 * Lunch
 * Announcements
+* Afternoon Breakout session (if needed)
 * Challenges
 * End of core hours
 * Challenges, Optimize your learning
@@ -65,13 +67,13 @@ Below are Phase 1 descriptions of the daily flows of events for each day of the 
 
 ## Friday
 * Check in with accountability buddies
-* Announcements
-* Morning Lecture
-* Group Challenge
+* Check-ins
+* Weekly Feedback
+* Weekend Project Kickoff
 * Lunch
 * Announcements
 * Group Challenge
 * End of core hours
 * Challenges, Optimize your learning
 
-*On the first Friday of the phase, the instructors are off the floor from about 11:00 - 4:00.  Also, there is an end-of-the-first-week meeting at the end of the day.  On the Friday of Week 3, DBC hosts employer day and graduation for the graduating cohort; the schedule will be different.*
+*On Fridays, the instructors are off the floor from 2:00 - 6:00pm*
