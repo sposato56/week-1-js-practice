@@ -22,7 +22,7 @@ Below are descriptions of the lectures delivered during Phase 1.
   Intro to basic concepts behind testing: writing examples and example groups, identifying edge cases, what to test, running the tests.
 
 
-#### Wedesday
+#### Wednesday
 
 * **<a name="iteration-and-recursion"></a>Iteration and Recursion:**
 
@@ -94,7 +94,7 @@ Below are descriptions of the lectures delivered during Phase 1.
 * *No lecture scheduled*
 
 
-#### Wedesday
+#### Wednesday
 
 * **<a name="introduction-to-activerecord"></a>Introduction to ActiveRecord:**
 
