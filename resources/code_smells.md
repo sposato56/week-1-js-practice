@@ -30,7 +30,7 @@ Why are these preferred instead?
 	person_info = {:name => "Teddy", :occupation => "Bear"}
 	
 	person_info.each do |person_attribute, person_detail|
-		puts "#{person_detail}, #{person_detail}"
+		puts "#{person_attribute}, #{person_detail}"
 	end
 ```
 
