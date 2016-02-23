@@ -4,9 +4,9 @@
 
 | Name         | Phone        | Email                       | Github | Twitter |
 | ------------ | ------------ | --------------------------- | -------| ------- |
-| Lucas Willett | [(312) 402-0884](tel:312-402-0884) | [lucas@devbootcamp.com](mailto:lucas@devbootcamp.com) | [@ltw_](http://twitter.com/ltw_) |[@ltw](http://github.com/ltw)|
-| Sam Blackman |
-| Duke Green |
+| Kevin Solorio | [(314) 435-1804](tel:314-435-1804) | [kevin@devbootcamp.com](mailto:kevin@devbootcamp.com) | [@ksolo](http://github.com/ksolo)| [@kmsolorio](http://twitter.com/kmsolorio) |
+| Mark Siemers | [(812) 584-3577](tel:812-584-3577) | [mark.siemers@devbootcamp.com](mailto:mark.siemers@devbootcamp.com)  |[@mdkirby](http://github.com/mdkirby)| [@WhatIsATweet](http://twitter.com/levie) |
+| Torey Hickman |
 
 ### Students
 
