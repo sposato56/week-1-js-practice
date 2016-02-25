@@ -38,9 +38,9 @@
 - [Design Drill: Public vs. Private Interfaces](../../../../design-drill-public-vs-private-interfaces-challenge)
 - [Ruby Drill: The self Keyword](../../../../ruby-drill-the-self-keyword-challenge)
 - [Ruby Drill: Exploring Scope](../../../../ruby-drill-exploring-scope-challenge)
+- [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
 - [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
 - [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
-- [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
 
 **Prep for Tomorrow**
 
