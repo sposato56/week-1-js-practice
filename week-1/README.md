@@ -143,7 +143,6 @@
 - [Ruby Meets Samuel Beckett](../../../../quad-ruby-meets-samuel-beckett-challenge)
 - [Linear vs. Binary Search](../../../../binary-vs-linear-searching-challenge)
 - [Prime Factors: Sieve of Eratosthenes](../../../../prime-factors-sieve-of-eratosthenes-challenge)
-- [Ruby Drill: Control Flow in Loops](../../../../ruby-drill-control-flow-in-loops-challenge)
 - [Calculating Subsets With Recursion](../../../../review-calculating-subsets-with-recursion-challenge)
 
 ### Additonal Resources
@@ -165,6 +164,7 @@
 
 - [Data Drill: Nested Arrays](../../../../data-drill-nested-arrays-challenge)
 - [Data Drill: Nested Arrays 2](../../../../nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
+- [Ruby Drill: Control Flow in Loops](../../../../ruby-drill-control-flow-in-loops-challenge)
 - [Word Search](../../../../ruby-word-search-challenge)
 - [Numbers in Words](../../../../numbers-in-words-challenge)
 
