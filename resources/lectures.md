@@ -29,15 +29,6 @@ Below are descriptions of the lectures delivered during Phase 1.
   Introduce students to the idea of algorithms, steps for solving a problem.  Students should be given an introduction to both iteration and recursion.  With iteration, students should be informed of (1) looping, and (2) iterating over collections.  With recursion, students should be informed of (1) breaking a problem down into smaller, solvable problems; (2) a method calling itself; (3) the base case.  Working in their weekly groups, students should write algorithms for solving a simple problem (e.g., detecting palindromes) both iteratively and recursively.
 
 
-#### Thursday
-
-* **<a name="object-heap-and-nested-data-structures"></a>Object Heap & Nested Data Structures:**
-
-  Introduce students to the object heap and the concept of pointers.  The main take away is that the value of a variable is not an object itself, rather a pointer to an object. Students should realize that this can cause issues when assigning the value of one variable to another (specifically, that this action does not create a copy of the data).
-
-  Demonstrate nested data structures and highlight that duplicating or cloning an array only produces a shallow copy (i.e., a new array object with the same objects).
-
-
 #### Friday
 
 * **<a name="sudoku-workshop"></a>Sudoku Workshop & Group Dynamics:**

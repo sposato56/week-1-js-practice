@@ -162,10 +162,6 @@
 
 ### Core
 
-**Workshop**
-
-[Object Heap & Nested Data Structures](../resources/lectures.md#object-heap-and-nested-data-structures)
-
 **Challenges**
 
 - [Data Drill: Nested Arrays](../../../../data-drill-nested-arrays-challenge)
