@@ -76,12 +76,12 @@
 
 **Challenges**
 
+- [Ruby Drill: Destructive Methods](../../../../ruby-drill-destructive-methods-challenge)
 - [Pig Latin](../../../../pig-latin-challenge)
 - [Ruby Drill: Regular Expressions](../../../../ruby-drill-regular-expressions-challenge)
 - [Benchmarking with Blocks](../../../../simple-benchmarking-with-blocks-challenge)
 - [Ruby Drill: Enumerable Methods](../../../../ruby-drill-enumerable-methods-challenge)
 - [Implement Enumerable](../../../../implement-enumerable-challenge)
-- [Ruby Drill: Destructive Methods](../../../../ruby-drill-destructive-methods-challenge)
 - [Algorithm Drill: Shuffle](../../../../algorithm-drill-shuffle-challenge)
 
 **Prep for Tomorrow**
