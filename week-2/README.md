@@ -104,7 +104,7 @@ No prep for tomorrow.
 **Challenges**
 - [Parsing Data 2](../../../../parsing-data-2-csv-in-anything-out-challenge)
 - [Scraping HN 2](../../../../scraping-hn-2-saving-to-csv-challenge)
-- [The Rational Numbers](../../../../the-rational-numbers-challenge)
+
 
 ### Additional Resources
 - [Your miyagi moment](http://techcrunch.com/2013/08/10/your-miyagi-moment/)
@@ -131,6 +131,7 @@ No prep for tomorrow.
 
 **Challenges**
 
+- [The Rational Numbers](../../../../the-rational-numbers-challenge)
 - [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
 - [Ruby Todos 1](../../../../ruby-todos-1-0-core-features-challenge)
 
