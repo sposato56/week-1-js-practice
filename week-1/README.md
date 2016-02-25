@@ -78,7 +78,6 @@
 
 - [Pig Latin](../../../../pig-latin-challenge)
 - [Ruby Drill: Regular Expressions](../../../../ruby-drill-regular-expressions-challenge)
-- [Design Drill: Translate to Pseudocode](../../../../design-drill-translate-to-pseudocode-challenge)
 - [Benchmarking with Blocks](../../../../simple-benchmarking-with-blocks-challenge)
 
 *Enumerables*
@@ -162,6 +161,7 @@
 
 **Challenges**
 
+- [Design Drill: Translate to Pseudocode](../../../../design-drill-translate-to-pseudocode-challenge)
 - [Data Drill: Nested Arrays](../../../../data-drill-nested-arrays-challenge)
 - [Data Drill: Nested Arrays 2](../../../../nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
 - [Ruby Drill: Control Flow in Loops](../../../../ruby-drill-control-flow-in-loops-challenge)
