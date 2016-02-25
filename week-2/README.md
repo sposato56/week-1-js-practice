@@ -74,7 +74,7 @@
 ### Stretch
 
 **Challenges**
-
+- [Boggle](../../../../boggle-challenge)
 - [Hospital Interface](../../../../hospital-interface-challenge)
 
 
