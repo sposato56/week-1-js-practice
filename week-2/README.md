@@ -66,7 +66,6 @@
 - [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
 - [Ruby Racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
-- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
 - [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 
 **Prep for Tomorrow**
@@ -78,7 +77,7 @@
 **Challenges**
 
 - [Hospital Interface](../../../../hospital-interface-challenge)
-- [Parsing Data 2](../../../../parsing-data-2-csv-in-anything-out-challenge)
+
 
 ### Additional Resources
 - [Inheritance vs. composition](http://ruby.learncodethehardway.org/book/ex44.html)
@@ -93,7 +92,7 @@
 ### Core
 
 **Challenges**
-
+- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
 - [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge)
 
 **Prep for Tomorrow**
@@ -103,7 +102,7 @@ No prep for tomorrow.
 ### Stretch
 
 **Challenges**
-
+- [Parsing Data 2](../../../../parsing-data-2-csv-in-anything-out-challenge)
 - [Scraping HN 2](../../../../scraping-hn-2-saving-to-csv-challenge)
 - [The Rational Numbers](../../../../the-rational-numbers-challenge)
 
