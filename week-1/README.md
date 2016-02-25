@@ -143,7 +143,7 @@
 - [Ruby Meets Samuel Beckett](../../../../quad-ruby-meets-samuel-beckett-challenge)
 - [Linear vs. Binary Search](../../../../binary-vs-linear-searching-challenge)
 - [Prime Factors: Sieve of Eratosthenes](../../../../prime-factors-sieve-of-eratosthenes-challenge)
-- [Calculating Subsets With Recursion](../../../../review-calculating-subsets-with-recursion-challenge)
+
 
 ### Additonal Resources
 
