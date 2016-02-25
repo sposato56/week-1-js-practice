@@ -88,14 +88,9 @@
 ---
 
 ## Wednesday
-### Solo Timed Challenge & OOP Practice
+### OOP Practice
 
 ### Core
-
-**Solo Challenges**
-
-- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
-- [For Students Repeating Phase 1](../../../../phase-1-alt-mock-assessment)
 
 **Challenges**
 
@@ -130,6 +125,12 @@ No prep for tomorrow.
 ### Career Talk at 4:30 PM
 
 ### Core
+
+**Solo Challenges**
+
+- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
+- [For Students Repeating Phase 1](../../../../phase-1-alt-mock-assessment)
+
 
 **Challenges**
 
