@@ -86,7 +86,7 @@
 ---
 
 ## Wednesday
-### OOP Practice
+### OOP: Ruby Objects from Data
 
 ### Core
 
