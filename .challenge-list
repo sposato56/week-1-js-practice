@@ -30,8 +30,6 @@ anagrams-2-generating-anagrams-challenge
 ar-skeleton
 battleship-challenge
 binary-vs-linear-searching-challenge
-boggle-1-basic-board-generation-challenge
-boggle-2-word-checker-challenge
 combating-smells-extract-method-challenge
 congress-database-1-from-csv-to-sqlite-with-ruby-challenge
 congress-database-2-scrub-and-analyze-with-ruby-challenge
@@ -108,7 +106,6 @@ ruby-drill-regular-expressions-challenge
 ruby-drill-the-self-keyword-challenge
 ruby-flashcards-1-single-deck-challenge
 ruby-flashcards-2-mvc-pattern-more-challenge
-ruby-racer-1-outrageous-fortune-challenge
 ruby-todos-1-0-core-features-challenge
 ruby-todos-2-0-additional-features-challenge
 ruby-word-search-challenge

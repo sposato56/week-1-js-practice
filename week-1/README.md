@@ -168,9 +168,6 @@
 - [Data Drill: Nested Arrays 2](../../../../nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
 - [Word Search](../../../../ruby-word-search-challenge)
 - [Numbers in Words](../../../../numbers-in-words-challenge)
-- [Ruby Racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
-- [Boggle 1: Basic Board Generation](../../../../boggle-1-basic-board-generation-challenge)
-- [Boggle 2: Word Checker](../../../../boggle-2-word-checker-challenge)
 
 **Prep for Tomorrow**
 
