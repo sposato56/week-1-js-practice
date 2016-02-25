@@ -175,9 +175,6 @@
 
 ### Stretch
 
-- [Review: Abstract Data Structures](../../../../review-abstract-data-structures-challenge)
-- [Data Drill: Stack and Queue](../../../../data-drill-stack-and-queue-challenge)
-- [Data Drill: Linked List](../../../../data-drill-linked-list-challenge)
 
 ### Additional Resources
 
@@ -217,6 +214,8 @@
 **Challenges**
 
 Either with a pair or on your own, complete the following challenges.
+- [Data Drill: Linked List](../../../../data-drill-linked-list-challenge)
+- [Data Drill: Stack and Queue](../../../../data-drill-stack-and-queue-challenge)
 - [Review: Abstract Data Structures](../../../../review-abstract-data-structures-challenge)
 - [Review: Calculating Subsets with Recursion](../../../../review-calculating-subsets-with-recursion-challenge)
 - [Review: Reflect and Iterate](../../../../review-reflect-and-iterate-challenge)
