@@ -175,7 +175,6 @@ No prep for tomorrow.
 
 **Challenges**
 
-- Install SQLite on your laptop and ensure that it is working.
 - [Database Drill: Student Roster](../../../../database-drill-student-roster-challenge)
 - [Database Drill: One to Many Schema](../../../../database-drill-one-to-many-schema-challenge)
 - [Database Drill: One to One Schema](../../../../database-drill-one-to-one-schema-challenge)
