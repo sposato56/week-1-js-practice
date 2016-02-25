@@ -122,8 +122,6 @@ No prep for tomorrow.
 ## Thursday
 ### OOP Practice
 
-### Career Talk at 4:30 PM
-
 ### Core
 
 **Solo Challenges**
