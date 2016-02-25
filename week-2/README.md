@@ -47,10 +47,6 @@
 - Watch [Inheritance and Mixins](https://talks.devbootcamp.com/inheritance-and-mixins)
 - Practicing POODR - read POODR throughout the week. For each chapter, apply the concept to your personal "OBJECT" in code.
 
-### Stretch
-
-**Challenges**
-
 
 ### Additional Resources
 - [Tupperware example solution](./resources/oop_tupperware_example.rb)
