@@ -145,8 +145,8 @@ No prep for tomorrow.
 
 **Challenges**
 
-- [Ruby Todos 2](../../../../ruby-todos-2-0-additional-features-challenge) 1.5hs
-- [Design Drill: Object Composition](../../../../design-drill-object-composition-challenge) 2hs
+- [Ruby Todos 2](../../../../ruby-todos-2-0-additional-features-challenge)
+- [Design Drill: Object Composition](../../../../design-drill-object-composition-challenge)
 
 ---
 
