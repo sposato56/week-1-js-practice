@@ -39,6 +39,7 @@
 - [Ruby Drill: The self Keyword](../../../../ruby-drill-the-self-keyword-challenge)
 - [Ruby Drill: Exploring Scope](../../../../ruby-drill-exploring-scope-challenge)
 - [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
+- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
 - [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
 
 **Prep for Tomorrow**
@@ -50,7 +51,6 @@
 
 **Challenges**
 
-- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
 
 ### Additional Resources
 - [Tupperware example solution](./resources/oop_tupperware_example.rb)
