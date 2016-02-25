@@ -67,11 +67,11 @@
 
 **Challenges**
 
-- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
 - [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
-- [Ruby Racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
-- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+- [Ruby Racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
+- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 
 **Prep for Tomorrow**
 - [Refactoring with Modules and Inheritance](https://talks.devbootcamp.com/refactoring-with-modules-and-inheritance)
