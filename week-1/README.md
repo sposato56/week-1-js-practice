@@ -175,6 +175,7 @@
 
 ### Stretch
 
+- [Labyrinth](../../../../labyrinth-challenge)
 
 ### Additional Resources
 
