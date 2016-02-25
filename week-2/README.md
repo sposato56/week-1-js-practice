@@ -132,8 +132,8 @@ No prep for tomorrow.
 **Challenges**
 
 - [The Rational Numbers](../../../../the-rational-numbers-challenge)
-- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
 - [Ruby Todos 1](../../../../ruby-todos-1-0-core-features-challenge)
+- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
 
 **Prep for Tomorrow**
 
