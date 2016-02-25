@@ -35,9 +35,9 @@
 
 - [Cheering Mascot](../../../../cheering-mascot-challenge)
 - [99 Bottles](../../../../99-bottles-challenge)
-- [Roman Numerals](../../../../roman-numerals-challenge)
 - [Debugging Drill: Use a REPL](../../../../debugging-drill-use-a-repl-challenge)
 - [Debugging Drill: Read the Error](../../../../debugging-drill-read-the-error-challenge)
+- [Roman Numerals](../../../../roman-numerals-challenge)
 - [Design Drill: Code Style](../../../../design-drill-code-style-challenge)
 - [Design Drill: Method Chaining](../../../../design-drill-method-chaining-challenge)
 
