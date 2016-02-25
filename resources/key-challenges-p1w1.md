@@ -32,6 +32,3 @@ In this challenge transitioning from a brute force approach to finding anagrams 
 
 You'll working with Arrays and Hashes until you give up software development and open a B&B in Vermont. So get to know these data structures! Know when to use one or the other, know their limitations, their strengths and be very familiar with their practical usage in Ruby.
 
-##### [Ruby Racer 1 Outrageous Fortune](../../../../ruby-racer-1-outrageous-fortune-challenge)
-
-This challenge requires you to model state in a data structure of your choosing and modify that state over time. It also includes a chance to give thought to separating the state of a system and how you present that state. More specifically, how tightly to you couple the state of the game and the requirements related to printing the game's state on the screen? Hopefully without any coupling at all!
