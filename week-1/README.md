@@ -34,9 +34,10 @@
 **Challenges**
 
 - [Cheering Mascot](../../../../cheering-mascot-challenge)
-- [Roman Numerals](../../../../roman-numerals-challenge)
+- [99 Bottles](../../../../99-bottles-challenge)
 - [Debugging Drill: Use a REPL](../../../../debugging-drill-use-a-repl-challenge)
 - [Debugging Drill: Read the Error](../../../../debugging-drill-read-the-error-challenge)
+- [Roman Numerals](../../../../roman-numerals-challenge)
 - [Design Drill: Code Style](../../../../design-drill-code-style-challenge)
 - [Design Drill: Method Chaining](../../../../design-drill-method-chaining-challenge)
 
@@ -50,7 +51,6 @@
 
 **Challenges:**
 
-- [99 Bottles](../../../../99-bottles-challenge)
 - [Battleship](../../../../battleship-challenge)
 
 ### Coding Resources
@@ -76,16 +76,12 @@
 
 **Challenges**
 
+- [Ruby Drill: Destructive Methods](../../../../ruby-drill-destructive-methods-challenge)
 - [Pig Latin](../../../../pig-latin-challenge)
 - [Ruby Drill: Regular Expressions](../../../../ruby-drill-regular-expressions-challenge)
-- [Design Drill: Translate to Pseudocode](../../../../design-drill-translate-to-pseudocode-challenge)
 - [Benchmarking with Blocks](../../../../simple-benchmarking-with-blocks-challenge)
-
-*Enumerables*
-
 - [Ruby Drill: Enumerable Methods](../../../../ruby-drill-enumerable-methods-challenge)
 - [Implement Enumerable](../../../../implement-enumerable-challenge)
-- [Ruby Drill: Destructive Methods](../../../../ruby-drill-destructive-methods-challenge)
 - [Algorithm Drill: Shuffle](../../../../algorithm-drill-shuffle-challenge)
 
 **Prep for Tomorrow**
@@ -140,12 +136,10 @@
 
 **Challenges**
 
-- [Advanced Calculator](../../../../advanced-calculator-challenge)
 - [Ruby Meets Samuel Beckett](../../../../quad-ruby-meets-samuel-beckett-challenge)
 - [Linear vs. Binary Search](../../../../binary-vs-linear-searching-challenge)
 - [Prime Factors: Sieve of Eratosthenes](../../../../prime-factors-sieve-of-eratosthenes-challenge)
-- [Ruby Drill: Control Flow in Loops](../../../../ruby-drill-control-flow-in-loops-challenge)
-- [Calculating Subsets With Recursion](../../../../review-calculating-subsets-with-recursion-challenge)
+
 
 ### Additonal Resources
 
@@ -162,17 +156,14 @@
 
 ### Core
 
-**Workshop**
-
-[Object Heap & Nested Data Structures](../resources/lectures.md#object-heap-and-nested-data-structures)
-
 **Challenges**
 
+- [Design Drill: Translate to Pseudocode](../../../../design-drill-translate-to-pseudocode-challenge)
 - [Data Drill: Nested Arrays](../../../../data-drill-nested-arrays-challenge)
 - [Data Drill: Nested Arrays 2](../../../../nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
-- [Ruby Racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
-- [Boggle 1: Basic Board Generation](../../../../boggle-1-basic-board-generation-challenge)
-- [Boggle 2: Word Checker](../../../../boggle-2-word-checker-challenge)
+- [Ruby Drill: Control Flow in Loops](../../../../ruby-drill-control-flow-in-loops-challenge)
+- [Word Search](../../../../ruby-word-search-challenge)
+- [Numbers in Words](../../../../numbers-in-words-challenge)
 
 **Prep for Tomorrow**
 
@@ -180,10 +171,7 @@
 
 ### Stretch
 
-- [Review: Abstract Data Structures](../../../../review-abstract-data-structures-challenge)
-- [Data Drill: Stack and Queue](../../../../data-drill-stack-and-queue-challenge)
-- [Data Drill: Linked List](../../../../data-drill-linked-list-challenge)
-- [Numbers in Words](../../../../numbers-in-words-challenge)
+- [Labyrinth](../../../../labyrinth-challenge)
 
 ### Additional Resources
 
@@ -223,6 +211,8 @@
 **Challenges**
 
 Either with a pair or on your own, complete the following challenges.
+- [Data Drill: Linked List](../../../../data-drill-linked-list-challenge)
+- [Data Drill: Stack and Queue](../../../../data-drill-stack-and-queue-challenge)
 - [Review: Abstract Data Structures](../../../../review-abstract-data-structures-challenge)
 - [Review: Calculating Subsets with Recursion](../../../../review-calculating-subsets-with-recursion-challenge)
 - [Review: Reflect and Iterate](../../../../review-reflect-and-iterate-challenge)

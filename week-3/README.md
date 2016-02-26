@@ -34,9 +34,9 @@
 
 **Challenges**
 
+- [Poll Database Design](../../../../poll-database-design-challenge)
 - [Database Drill: SQL Tutor](https://sqltutor.devbootcamp.com/)  _Switch driver/navigator roles on every question!_
 - [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge) - if not finished over the weekend.
-- [Poll Database Design](../../../../poll-database-design-challenge)
 - [Poll DB 1: Queries](../../../../poll-db-1-queries-challenge)
 - [Poll DB 2: Modifying Data](../../../../poll-db-2-modifying-data-challenge)
 
@@ -70,8 +70,8 @@
 
 **Challenges**
 
-- [Student Roster DB from Schema](../../../../student-roster-db-from-schema-challenge)
 - [University DB Schema](../../../../university-course-database-design-challenge)
+- [Student Roster DB from Schema](../../../../student-roster-db-from-schema-challenge)
 - [Address Book DB from Schema](../../../../address-book-db-from-schema-challenge)
 - [Active Record Jr. Part 1](../../../../activerecord-jr-1-a-basic-orm-challenge)
 
@@ -113,6 +113,7 @@
 - [Active Record Intro: Objects](../../../../active-record-intro-objects-challenge)
 - [Active Record Intro: belongs_to Association](../../../../active-record-intro-belongs-to-association-challenge)
 - [Active Record Intro: has_many Association](../../../../active-record-intro-has-many-association-challenge)
+- [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge)
 
 **Prep for Tomorrow**
 
@@ -131,8 +132,7 @@
 ### Core
 
 **Challenges**
-
-- [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge)
+- Complete any outstanding Active Record Intro challenges
 - [ActiveRecord Student Schema](../../../../active-record-drill-model-a-student-challenge)
 - [Active Record Congress DB 1](../../../../active-record-legislators-challenge)
 - [Active Record Congress DB 2](../../../../active-record-legislator-tweets-challenge)

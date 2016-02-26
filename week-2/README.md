@@ -28,29 +28,21 @@
 
 ### Core
 
-**Lecture**
-
-[Sudoku Recap & Introduction to OOP](../resources/lectures.md#introduction-to-oop)
-
 **Challenges**
 
 - [Ruby Drill: Accessor Methods](../../../../ruby-drill-accessor-methods-challenge)
 - [Design Drill: Public vs. Private Interfaces](../../../../design-drill-public-vs-private-interfaces-challenge)
 - [Ruby Drill: The self Keyword](../../../../ruby-drill-the-self-keyword-challenge)
 - [Ruby Drill: Exploring Scope](../../../../ruby-drill-exploring-scope-challenge)
-- [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
 - [Design Drill: Argument-Order Dependency](../../../../design-drill-argument-order-dependency-challenge)
+- [Orange Tree 1: Just Oranges](../../../../orange-tree-1-just-oranges-challenge)
+- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
 
 **Prep for Tomorrow**
 
 - Watch [Inheritance and Mixins](https://talks.devbootcamp.com/inheritance-and-mixins)
 - Practicing POODR - read POODR throughout the week. For each chapter, apply the concept to your personal "OBJECT" in code.
 
-### Stretch
-
-**Challenges**
-
-- [Orange Tree 2: Groves](../../../../orange-tree-2-groves-challenge)
 
 ### Additional Resources
 - [Tupperware example solution](./resources/oop_tupperware_example.rb)
@@ -67,10 +59,9 @@
 
 **Challenges**
 
-- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
 - [Design Drill: Classical Inheritance](../../../../design-drill-classical-inheritance-challenge)
-- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 - [Cookies and Ovens](../../../../cookies-and-ovens-challenge)
+- [Ruby Racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
 
 **Prep for Tomorrow**
 - [Refactoring with Modules and Inheritance](https://talks.devbootcamp.com/refactoring-with-modules-and-inheritance)
@@ -79,9 +70,9 @@
 ### Stretch
 
 **Challenges**
-
+- [Boggle](../../../../boggle-challenge)
 - [Hospital Interface](../../../../hospital-interface-challenge)
-- [Parsing Data 2](../../../../parsing-data-2-csv-in-anything-out-challenge)
+
 
 ### Additional Resources
 - [Inheritance vs. composition](http://ruby.learncodethehardway.org/book/ex44.html)
@@ -91,17 +82,13 @@
 ---
 
 ## Wednesday
-### Solo Timed Challenge & OOP Practice
+### OOP: Ruby Objects from Data
 
 ### Core
 
-**Solo Challenges**
-
-- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
-- [For Students Repeating Phase 1](../../../../phase-1-alt-mock-assessment)
-
 **Challenges**
-
+- [Ruby Drill: ARGV Basics](../../../../ruby-drill-argv-basics-challenge)
+- [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)
 - [Scraping HN 1](../../../../scraping-hn-1-building-objects-challenge)
 
 **Prep for Tomorrow**
@@ -111,9 +98,9 @@ No prep for tomorrow.
 ### Stretch
 
 **Challenges**
-
+- [Parsing Data 2](../../../../parsing-data-2-csv-in-anything-out-challenge)
 - [Scraping HN 2](../../../../scraping-hn-2-saving-to-csv-challenge)
-- [The Rational Numbers](../../../../the-rational-numbers-challenge)
+
 
 ### Additional Resources
 - [Your miyagi moment](http://techcrunch.com/2013/08/10/your-miyagi-moment/)
@@ -130,14 +117,19 @@ No prep for tomorrow.
 ## Thursday
 ### OOP Practice
 
-### Career Talk at 4:30 PM
-
 ### Core
+
+**Solo Challenges**
+
+- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
+- [For Students Repeating Phase 1](../../../../phase-1-alt-mock-assessment)
+
 
 **Challenges**
 
-- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
+- [The Rational Numbers](../../../../the-rational-numbers-challenge)
 - [Ruby Todos 1](../../../../ruby-todos-1-0-core-features-challenge)
+- [World's Simplest Browser](../../../../world-s-simplest-browser-challenge)
 
 **Prep for Tomorrow**
 
@@ -149,8 +141,7 @@ No prep for tomorrow.
 
 **Challenges**
 
-- [Ruby Todos 2](../../../../ruby-todos-2-0-additional-features-challenge) 1.5hs
-- [Design Drill: Object Composition](../../../../design-drill-object-composition-challenge) 2hs
+- [Ruby Todos 2](../../../../ruby-todos-2-0-additional-features-challenge)
 
 ---
 
@@ -162,16 +153,12 @@ No prep for tomorrow.
 **Challenges**
 
 - [Ruby Flashcards 1 Single Deck](../../../../ruby-flashcards-1-single-deck-challenge)
+- [Ruby Flashcards 2 MVC Pattern More](../../../../ruby-flashcards-2-mvc-pattern-more-challenge)
 
 **Prep for Tomorrow**
 
 - [Schema Design](../readings/schema-design/README.md)
 
-### Stretch
-
-**Challenges**
-
-- [Ruby Flashcards 2 MVC Pattern More](../../../../ruby-flashcards-2-mvc-pattern-more-challenge)
 
 ### Additional Resources
 - [Managing dependencies](./resources/oop-managing-dependencies.md)
@@ -184,7 +171,6 @@ No prep for tomorrow.
 
 **Challenges**
 
-- Install SQLite on your laptop and ensure that it is working.
 - [Database Drill: Student Roster](../../../../database-drill-student-roster-challenge)
 - [Database Drill: One to Many Schema](../../../../database-drill-one-to-many-schema-challenge)
 - [Database Drill: One to One Schema](../../../../database-drill-one-to-one-schema-challenge)
