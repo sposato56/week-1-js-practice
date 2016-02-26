@@ -70,8 +70,8 @@
 
 **Challenges**
 
-- [Student Roster DB from Schema](../../../../student-roster-db-from-schema-challenge)
 - [University DB Schema](../../../../university-course-database-design-challenge)
+- [Student Roster DB from Schema](../../../../student-roster-db-from-schema-challenge)
 - [Address Book DB from Schema](../../../../address-book-db-from-schema-challenge)
 - [Active Record Jr. Part 1](../../../../activerecord-jr-1-a-basic-orm-challenge)
 
