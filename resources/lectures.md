@@ -38,12 +38,6 @@ Below are descriptions of the lectures delivered during Phase 1.
 
 ## Week 2: Object Oriented Programming
 
-#### Monday
-
-* **<a name="introduction-to-oop"></a>Sudoku Recap & Introduction to OOP:**
-
-  Introduce students to object-oriented programming.  Stress to students that they need to read Practical Object Oriented Design in Ruby.  Cover modeling the real world--both state and behavior--and encapsulation with an introduction to classes and modules.
-
 
 #### Tuesday
 
