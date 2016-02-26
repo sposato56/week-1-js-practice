@@ -132,7 +132,7 @@
 ### Core
 
 **Challenges**
-
+- Complete any outstanding Active Record Intro challenges
 - [ActiveRecord Student Schema](../../../../active-record-drill-model-a-student-challenge)
 - [Active Record Congress DB 1](../../../../active-record-legislators-challenge)
 - [Active Record Congress DB 2](../../../../active-record-legislator-tweets-challenge)
