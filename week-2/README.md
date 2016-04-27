@@ -143,8 +143,8 @@ No prep for tomorrow.
 
 **Solo Challenges**
 
-- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
-- [For Students Repeating Phase 1](../../../../phase-1-alt-mock-assessment)
+- [For First Time Students](../../../../algorithms-and-oo-checkpoint-challenge)
+- [For Students Repeating Phase 1](../../../../alt-algorithms-and-oo-checkpoint-challenge)
 
 
 **Challenges**
