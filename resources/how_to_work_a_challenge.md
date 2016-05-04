@@ -37,7 +37,7 @@ We will be using GitHub to submit and review all challenges. This is the standar
   *Note*: Use the https url on the DBC workstations.
 
   ```shell
-  $ git clone https://github.com/Devbootcamp/cheering-mascot-challenge.git
+  $ git clone https://github.com/<cohort-org>/cheering-mascot-challenge.git
   ```
 - Create a branch using the following naming convention in the terminal.
 
