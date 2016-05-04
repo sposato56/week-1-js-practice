@@ -19,7 +19,29 @@
 
 ## Groups ##
 
-[Week 2 groups](../../wiki/groups.md#week-2)
+| Group    | Name                         |
+|----------|------------------------------|
+| 1        | Amanda McDorman              |
+| 1        | Daniel Nguyen                |
+| 1        | Gabriel Bonner               |
+| 1        | Maeve Tierney                |
+| 2        | Bradley Harris               |
+| 2        | Danny Pham                   |
+| 2        | Jacqueline Phan              |
+| 2        | Patrick Allen                |
+| 3        | Clara Bova                   |
+| 3        | David Ruiz                   |
+| 3        | Martha Rodgers               |
+| 3        | Rene Castillo                |
+| 4        | Dana Naamad                  |
+| 4        | Jesse Kinser                 |
+| 4        | Michael Dumalag              |
+| 4        | Rickie Yi                    |
+| 5        | Elliot DeWyze Wolfe          |
+| 5        | Kathryn Ragudos              |
+| 5        | Mike Laurel                  |
+| 5        | Taylor Beck                  |
+| 5        | Thomas Farr                  |
 
 ---
 
@@ -121,8 +143,8 @@ No prep for tomorrow.
 
 **Solo Challenges**
 
-- [For First Time Students](../../../../bernies-bistro-solo-timed-challenge)
-- [For Students Repeating Phase 1](../../../../phase-1-alt-mock-assessment)
+- [For First Time Students](../../../../algorithms-and-oo-checkpoint-challenge)
+- [For Students Repeating Phase 1](../../../../alt-algorithms-and-oo-checkpoint-challenge)
 
 
 **Challenges**
@@ -183,7 +205,7 @@ No prep for tomorrow.
 
 **Prep for Monday**
 
-- Finish reading [Practical Object Oriented Programming in Ruby](https://www.dropbox.com/s/82gx9sf00vmonad/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf).  There is a hardcopy available on the DBC bookshelf.  An electronic copy is available in the [DBC Books Dropbox](https://www.dropbox.com/sh/cyje5e6cfk708al/USop5LBSQA).  As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.
+- Finish reading Practical Object Oriented Programming in Ruby. There is a hardcopy available on the DBC bookshelf. As you read, come up with your own real-world object--like the author's bicycle--and try to apply each concept to your object.
 - [Relational Database Design](http://www.ntu.edu.sg/home/ehchua/programming/sql/Relational_Database_Design.html)
 
 ### Stretch

@@ -18,7 +18,29 @@
 
 ## Groups ##
 
-[Week 1 groups](../../wiki/groups.md#week-1)
+| Group    | Name                         |
+|----------|------------------------------|
+| 1        | Amanda McDorman              |
+| 1        | Bradley Harris               |
+| 1        | Clara Bova                   |
+| 1        | Dana Naamad                  |
+| 2        | Daniel Nguyen                |
+| 2        | Danny Pham                   |
+| 2        | David Ruiz                   |
+| 2        | Elliot DeWyze Wolfe          |
+| 3        | Gabriel Bonner               |
+| 3        | Jacqueline Phan              |
+| 3        | Jesse Kinser                 |
+| 3        | Kathryn Ragudos              |
+| 4        | Maeve Tierney                |
+| 4        | Martha Rodgers               |
+| 4        | Michael Dumalag              |
+| 4        | Mike Laurel                  |
+| 5        | Patrick Allen                |
+| 5        | Rene Castillo                |
+| 5        | Rickie Yi                    |
+| 5        | Taylor Beck                  |
+| 5        | Thomas Farr                  |
 
 ---
 

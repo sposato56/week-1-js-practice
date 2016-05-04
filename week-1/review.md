@@ -2,7 +2,7 @@
 
 # Summary
 
-Reflection is a powerful learning tool.  For this challenge you will create journal 
+Reflection is a powerful learning tool.  For this challenge you will create a journal
 1. [Reflect on Learning](#reflect-on-learning)
 1. [Review, Reflect, and Iterate](#review-reflect-and-iterate)
 1. Prep: [Reading Practical Object Oriented Design In Ruby](#prep-reading-practical-object-oriented-design-in-ruby)
@@ -49,15 +49,11 @@ Once you have re-completed the review challenge, answer the following questions:
 
 Read Chapter 2 and 3 of "Practical Object-Oriented Design in Ruby"
 
-You can access a copy of this on the Books Dropbox—or there is a hard copy on the bookshelf at DBC.
+This book is available onsite on the DBC library.
 
-[Dropbox link to book] [1]
-
-As you are reading Chapter 2–Come up with your own Object (like the authors Bicycle) and try to apply each concept to your Object. We will discuss on Monday.
+As you are reading Chapter 2, come up with your own Object (like the author's Bicycle). Try to apply each concept to your Object. We will discuss on Monday.
 
 **Note**: You should read the rest of the book throughout week 2.
-
-[1]: https://www.dropbox.com/s/e9rnrfkg9565xkz/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf "Dropbox Link"
 
 --------------------------------------------------------------------------------
 
