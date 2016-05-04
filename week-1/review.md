@@ -49,9 +49,9 @@ Once you have re-completed the review challenge, answer the following questions:
 
 Read Chapter 2 and 3 of "Practical Object-Oriented Design in Ruby"
 
-You can access a copy of this on the bookshelf at DBC.
+This book is available onsite on the DBC library.
 
-As you are reading Chapter 2–Come up with your own Object (like the authors Bicycle) and try to apply each concept to your Object. We will discuss on Monday.
+As you are reading Chapter 2, come up with your own Object (like the author's Bicycle). Try to apply each concept to your Object. We will discuss on Monday.
 
 **Note**: You should read the rest of the book throughout week 2.
 
