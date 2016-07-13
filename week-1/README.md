@@ -56,7 +56,7 @@
 
 **Challenges:**
 
-- [Battleship](../../../../battleship-challenge)
+- [Battleship](../../../../battleship-challenge) (This is a tough challenge to add on top of core work, focus on one release per day, if you have time)
 
 ### Coding Resources
 
