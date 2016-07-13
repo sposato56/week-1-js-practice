@@ -19,29 +19,13 @@
 
 ## Groups ##
 
-| Group    | Name                         |
-|----------|------------------------------|
-| 1        | Daniel Nguyen                |
-| 1        | Gabriel Bonner               |
-| 1        | Rene Castillo                |
-| 1        | Taylor Beck                  |
-| 2        | Danny Pham                   |
-| 2        | Elliot DeWyze Wolfe          |
-| 2        | Jacqueline Phan              |
-| 2        | Michael Dumalag              |
-| 3        | Clara Bova                   |
-| 3        | Dana Naamad                  |
-| 3        | Martha Rodgers               |
-| 3        | Thomas Farr                  |
-| 4        | Amanda McDorman              |
-| 4        | Kathryn Ragudos              |
-| 4        | Maeve Tierney                |
-| 4        | Patrick Allen                |
-| 5        | Bradley Harris               |
-| 2        | David Ruiz                   |
-| 5        | Jesse Kinser                 |
-| 5        | Mike Laurel                  |
-| 5        | Rickie Yi                    |
+| Group |             |            |            |            |            |
+|-------|-------------|------------|------------|------------|------------|
+|   1   |             |            |            |            |            |
+|   2   |             |            |            |            |            |
+|   3   |             |            |            |            |            |
+|   4   |             |            |            |            |            |
+|   5   |             |            |            |            |            |
 
 ---
 
