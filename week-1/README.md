@@ -89,6 +89,9 @@
 - [Implement Enumerable](../../../../implement-enumerable-challenge)
 - [Algorithm Drill: Shuffle](../../../../algorithm-drill-shuffle-challenge)
 
+**Planned Breakout Sessions**
+- Enumerables Breakout
+
 **Prep for Tomorrow**
 
 - [Writing Readable Code](../readings/writing-readable-code/README.md)
