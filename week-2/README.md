@@ -158,8 +158,7 @@ No prep for tomorrow.
 
 **Challenges**
 
-- [Ruby Flashcards 1 Single Deck](../../../../ruby-flashcards-1-single-deck-challenge)
-- [Ruby Flashcards 2 MVC Pattern More](../../../../ruby-flashcards-2-mvc-pattern-more-challenge)
+- [Ruby Flashcards](../../../../ruby-flashcards-1-single-deck-challenge)
 
 **Prep for Tomorrow**
 
