@@ -19,29 +19,13 @@
 
 ## Groups ##
 
-| Group    | Name                         |
-|----------|------------------------------|
-| 1        | Daniel Nguyen                |
-| 1        | Gabriel Bonner               |
-| 1        | Rene Castillo                |
-| 1        | Taylor Beck                  |
-| 2        | Danny Pham                   |
-| 2        | Elliot DeWyze Wolfe          |
-| 2        | Jacqueline Phan              |
-| 2        | Michael Dumalag              |
-| 3        | Clara Bova                   |
-| 3        | Dana Naamad                  |
-| 3        | Martha Rodgers               |
-| 3        | Thomas Farr                  |
-| 4        | Amanda McDorman              |
-| 4        | Kathryn Ragudos              |
-| 4        | Maeve Tierney                |
-| 4        | Patrick Allen                |
-| 5        | Bradley Harris               |
-| 2        | David Ruiz                   |
-| 5        | Jesse Kinser                 |
-| 5        | Mike Laurel                  |
-| 5        | Rickie Yi                    |
+| Group |             |            |            |            |            |
+|-------|-------------|------------|------------|------------|------------|
+|   1   |             |            |            |            |            |
+|   2   |             |            |            |            |            |
+|   3   |             |            |            |            |            |
+|   4   |             |            |            |            |            |
+|   5   |             |            |            |            |            |
 
 ---
 
@@ -59,8 +43,8 @@
 - [Poll Database Design](../../../../poll-database-design-challenge)
 - [Database Drill: SQL Tutor](https://sqltutor.devbootcamp.com/)  _Switch driver/navigator roles on every question!_
 - [Database Drill: Intro to SQLite](../../../../database-drill-intro-to-sqlite-challenge) - if not finished over the weekend.
-- [Poll DB 1: Queries](../../../../poll-db-1-queries-challenge)
-- [Poll DB 2: Modifying Data](../../../../poll-db-2-modifying-data-challenge)
+- [SQL Voting Results Retrieving Data Challenge](../../../../sql-voting-results-retrieving-data-challenge)
+- [SQL Voting Results Modifying Data Challenge](../../../../sql-voting-results-modifying-data-challenge)
 
 **Prep for Tomorrow**
 
