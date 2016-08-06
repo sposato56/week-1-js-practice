@@ -1,78 +1,42 @@
-# Phase 1 Guide
+# Build an Abstract Data Structure
 
-## Course Outline
+## Summary
+Ruby's core library provides us with some built in data structures.  Arrays and hashes are two fundamental data structures, and both are provided by Ruby.  We've used them extensively, and we'll continue to do so.  These data structures are very flexible, and we can use them in a variety of different circumstances.  However, sometimes our program would benefit from a different data structure choice.
 
-<table>
-  <tr>
-    <th></th>
-    <th colspan="6">Quick Reference</th>
-  </tr>
+In this challenge we're going to learn about some additional data structures.  We'll select one of our choice and implement it in Ruby.
 
-  <tr>
-    <td><a href="./week-1/">Week 1 - Algorithms and Coder's Mindset</a></td>
-    <td><a href="./week-1#monday">Monday</a></a></td>
-    <td><a href="./week-1#tuesday">Tuesday</a></td>
-    <td><a href="./week-1#wednesday">Wednesday</a></td>
-    <td><a href="./week-1#thursday">Thursday</a></td>
-    <td><a href="./week-1#friday">Friday</a></td>
-    <td><a href="./week-1#weekend">Weekend</a></td>
-  </tr>
 
-  <tr>
-    <td><a href="./week-2">Week 2 - Object Oriented Programming</a></td>
-    <td><a href="./week-2#monday">Monday</a></a></td>
-    <td><a href="./week-2#tuesday">Tuesday</a></td>
-    <td><a href="./week-2#wednesday">Wednesday</a></td>
-    <td><a href="./week-2#thursday">Thursday</a></td>
-    <td><a href="./week-2#friday">Friday</a></td>
-    <td><a href="./week-2#weekend">Weekend</a></td>
-  </tr>
+### Data Structure Choices
+Choose an [abstract data structure][wikipedia abstract data type] from the following list.  Depending on which data structure we choose to implement, there are certain restrictions within which we'll need to work.  For more information on these data structures, check the information on [Wikipedia's list of data structures][wikipedia data structures list].
 
-  <tr>
-    <td><a href="./week-3">Week 3 - Databases</a></td>
-    <td><a href="./week-3#monday">Monday</a></a></td>
-    <td><a href="./week-3#tuesday">Tuesday</a></td>
-    <td><a href="./week-3#wednesday">Wednesday</a></td>
-    <td><a href="./week-3#thursday">Thursday</a></td>
-    <td><a href="./week-3#friday">Friday</a></td>
-    <td><a href="./week-3#weekend">Weekend</a></td>
-  </tr>
-</table>
+- Graph
+- Map ([restrictions][map restrictions])
+- Set ([restrictions][set restrictions])
+- String ([restrictions][string restrictions])
+- Tree
 
-## Weekly Cadence
 
-- Yoga: Thursday 11:30am - 12:30pm
-- Engineering Empathy (EE): Tuesday at 11:00am
-  - Week 1 - The Empathic Team
-  - Week 2 - The Inner Critic
-  - Week 3 - Empathy and Authenticity
-- Assessment: Week 3, Wednesday
-  - "The Challenge" - 9:15am - 12:45pm
-  - "Code Review" - 20 minute blocks starting 2:10pm
+## Releases
+### Release 0: Describe the Data Structure
+In 3 or 4 sentences of our own words, describe the major functions of the data structure.
 
-## Daily Cadence
 
-Time    | Activity
----     | ---
-8:45am  | Check in with accountability buddies
-9:00am  | Morning Announcements
-9:05am  | Daily Progress Checkin
-9:25am  | Challenges/Breakouts
-12:30pm | Lunch
-2:00pm  | Afternoon Announcements
-2:05pm  | Challenges/Breakouts
-6:00pm  | End of core hours
-6:00pm  | After hours learning/mentoring/solo time
+### Release 1: Implement the Data Structure
+Implement the data structure and its primary functionality, adhering to the restrictions outlined above.  Depending on which structure we implement, we'll almost certainly either be using a Ruby `Hash` or `Array` behind the scenes.
 
-## Additional Resources
-- [Student Handbook](../../../student-handbook)
-- [Challenge Workflow](resources/how_to_work_a_challenge.md)
-- [Pair Check-in Tips](resources/pair_checkin_tips.md)
-- [Counseling Session Signup](resources/counseling_instructions.md)
-- [Mentoring Signup](http://mentoring.devbootcamp.com/)
-- [Daily Schedules](resources/daily_schedules.md)
-- [Learning Competencies](resources/competencies.md)
-- [Lecture Topics](resources/lectures.md)
-- [External Resources](resources/resources.md)
-- [Phase Schedule](resources/schedule.md)
-- [Working Agreement](resources/working-agreement.md)
+We'll need to write tests that document the behavior of our data structure.
+
+
+### Release 2: Describe Use Case
+Describe a programming problem that we could model with our data structure and how the model represents the problem situation without exposing unnecessary data or methods.
+
+
+## Conclusion
+At Dev Bootcamp we'll primarily work with Ruby's built-in arrays and hashes.  However, we should be familiar with other data structures as well.  We never know when they might be useful, or when an interviewer might ask us about them.
+
+
+[map restrictions]: readme-assets/map-restrictions.md
+[set restrictions]: readme-assets/set-restrictions.md
+[string restrictions]: readme-assets/string-restrictions.md
+[wikipedia abstract data type]: https://en.wikipedia.org/wiki/Abstract_data_type
+[wikipedia data structures list]: http://en.wikipedia.org/wiki/List_of_data_structures
